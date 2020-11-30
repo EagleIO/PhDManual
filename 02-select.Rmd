@@ -8,7 +8,7 @@ We wanted a semi-structured process for selecting incoming I/O doctoral students
 
 [^footie]:This two-phase process recommendation was made in primary consideration of the MSU I/O PhD applicant pool. With additional predictors *above and beyond* the typical, at nascent stages of program development, the concern was that additional application hurdles would limit the size of our applicant pool.
 
-## Phase I selection process
+## Phase I selection 
 
 The recommended Phase I application materials are:
 
