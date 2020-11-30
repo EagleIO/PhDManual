@@ -1,5 +1,7 @@
 # Dissertation Process {#dissertation}
 
+![](schedule.jpg)
+
 The graduate school has a general dissertation process, so we could follow their guidelines. However, it would be helpful to spell out our own logistics for dates, committee assemblage, proposal process, and links within the I/O document so students can reference this if they have questions. Further, I put the general dissertation process outline in the PAD which can be reviewed and expanded upon with more specific procedural details. Below are some examples of programs which have their dissertation process spelt out. 
 
 + [Chattanooga](https://www.utc.edu/doctorate-learning-leadership/doctoralguide/dissertationprocess/finaldefense.php)

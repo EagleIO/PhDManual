@@ -1,7 +1,7 @@
 --- 
 title: "MSU PhD Roles and Policy Manual"
-author: "Industrial and Organizational Program Faculty"
-date: "`r Sys.Date()`"
+author: "authored by the Industrial and Organizational Program faculty"
+date: "originally drafted December 2020"
 site: bookdown::bookdown_site
 documentclass: book
 cover-image: "manual.png"
@@ -11,15 +11,8 @@ link-citations: yes
 description: "This is the policy manual for the Montclair State University PhD program in Industrial and Organizational Psychology. The output format for this manual is bookdown::gitbook."
 ---
 
-# I/O Psychology Doctoral Program Roles and Policies
+# Homepage {-#Homepage}
 
-![](manual.png)
+![](culture.jpg)
 
-As the I/O Doctoral Program goes live, we are in need of a handbook detailing all the key procedures and policies for the I/O doctoral and MA program experience. The goal is to have a final draft of the handbook by December 1st 2020, or the deadline for our first official doctoral application cycle. We need to have formal procedures for the following areas: (1) Doctoral Student Selection, Chapter \@ref(select), (2) I/O Program (MA and PhD) Probation Standards, Chapter \@ref(develop), (3) Prospective Comprehensive Exams, Chapter \@ref(comps), (4) Student Mentorship and Program Culture, Chapter \@ref(culture), and (5) Dissertation Process, Chapter \@ref(dissertation). Here are some general handbooks from other programs:
-
-
-+ [Clemson](https://www.clemson.edu/cbshs/departments/psychology/files/pdf/handbook-psychology-graduate-current.pdf)
-+ [UCF](https://graduate.ucf.edu/wp-content/uploads/2019/05/Industrial-and-Organizational-Psychology-PhD.pdf)
-+ [Tulsa](https://artsandsciences.utulsa.edu/wp-content/uploads/sites/6/2015/09/2017-I-O-Handbook.pdf)
-
-It would be great help if each of us could volunteer to develop one or more of these policies and then educate the other faculty on the process. We can submit each for review, feedback, and then finalize for our second official incoming class. We could each carve out the procedure **over the summer**, review as a group **at our first I/O meeting** in the Fall, then **update and finalize** by December 1st. Below is a brief outline of each policy with some examples from other institutions.
+This is the policy manual for the Montclair State University PhD program in Industrial and Organizational Psychology, last updated `r Sys.Date()`.
