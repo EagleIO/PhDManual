@@ -2,10 +2,48 @@
 
 ![](schedule.jpg)
 
-The graduate school has a general dissertation process, so we could follow their guidelines. However, it would be helpful to spell out our own logistics for dates, committee assemblage, proposal process, and links within the I/O document so students can reference this if they have questions. Further, I put the general dissertation process outline in the PAD which can be reviewed and expanded upon with more specific procedural details. Below are some examples of programs which have their dissertation process spelt out. 
+## Doctoral Candidacy
 
-+ [Chattanooga](https://www.utc.edu/doctorate-learning-leadership/doctoralguide/dissertationprocess/finaldefense.php)
-+ [Louisiana State](https://www.lsu.edu/hss/psychology/grad/io_graduate_handbook_2019-11-07.pdf)
+Students who have passed the prelims  exam are eligible for promotion to doctoral candidacy and to submit their dissertation proposal.
+See the [Dissertation Procedures and Guidelines Manual](https://www.montclair.edu/graduate/wp-content/uploads/sites/58/2018/10/DISSERTATION-PROCEDURES-GUIDELINES-FINAL-10-8-18-2-1.pdf) published by The Graduate School to get you started.
+
+To be recognized as doctoral candidates, students must complete and file [FORM A -Notification of Completion of the Qualifying Assessment and Notification of Admission to Doctoral Candidacy](https://www.montclair.edu/graduate/wp-content/uploads/sites/58/2020/08/Form-A.pdf) with TGS. Students must first sign the form and email it to the DCT for their signature. Students must then return the signed form and all necessary supporting documents (i.e. confirmation of successful completion of the prelim exam, including the final prelim exam documents and grading rubrics ), to [Caren Ferrante](mailto:ferrantec@montclair.edu) and [Rebecca Shiffer-Newton](mailto:shifferr@montclair.edu). Students should copy the DCT on all emails. 
+Students are encouraged to submit [FORM B –Approval of the Dissertation Committee](https://www.montclair.edu/graduate/wp-content/uploads/sites/58/2020/08/From-B.pdf) and [FORM C –Request for Approval of Outside Dissertation Committee Member](https://www.montclair.edu/graduate/wp-content/uploads/sites/58/2020/08/Form-C.pdf) at the same time as Form A. Once Forms A, B, and C are submitted and approved, students are eligible to submit [Forms G/H for Dissertation Advisement](https://gradschool.montclair.edu/gradweb/forms/formslogin.php?to=http%3A%2F%2Fgradschool.montclair.edu%2Fgradweb%2Fforms%2Fdissertation.php) and register for dissertation credits. 
+
+## Dissertation
+
+Students’ culminating research experience in the Program is the Dissertation, through which they are expected to make a novel contribution to the field through an analysis of empirical data . For the Dissertation, students must collect and analyze primary data, conduct a novel analysis of secondary data, or complete a meta-analysis that fills a significant gap in the literature. Whereas some students might opt to write their Dissertation in the more traditional, expansive format, students are also welcome to produce a more concise document appropriate for submission to a peer-reviewed journal, provided that their faculty mentor approves of this format.  We note here that students writing a journal-ready document are expected to have the same level of expertise in their topic as those writing in the more traditional dissertation format. 
+
+The Dissertation Committee. The faculty mentor will serve as Chair of the Dissertation Committee.  The Dissertation Committee must have at least three other members; two must be members of the Psychology Department, and one must be either from another MSU department or from an external institution.  Per TGS policy, the student must complete and file FORM B – Approval of the Dissertation Committee, as well as FORM C – Request for Approval of an Outside Dissertation Committee Member if one or more of their committee members do not hold full-time faculty status at MSU. 
+
+### The Dissertation Proposal 
+
+Once the Dissertation Committee has been approved, the student will complete his or her Dissertation Proposal, which should review the extant literature on the Dissertation topic, assess how the dissertation will represent a novel contribution to the field by fulfilling its specific aims, and outline the methodology, including a description of data sources and statistical analytic techniques. Once the Dissertation Committee Chair has approved the Dissertation Proposal, the student is responsible for distributing the document to all other committee members, who will be given at least two weeks to review it. 
+
+### The Dissertation Proposal Defense 
+
+The student should schedule a mutually convenient two-hour block in which the student and his or her committee will meet for a Dissertation Proposal Defense Meeting. Prior to the meeting, committee members will provide the student with any written feedback on the proposal. During the Dissertation Proposal Defense Meeting, the student will verbally respond to committee members’ feedback, and the student and committee will devise a plan for any revisions and refinements to the proposal. When the student and committee have agreed on this plan, they will complete [FORM D – Approval for Dissertation Proposal](https://www.montclair.edu/graduate/wp-content/uploads/sites/58/2020/08/Form-D.pdf). After the Dissertation Proposal Defense Meeting, the student is responsible for submitting FORM D to TGS for approval. Once TGS approves the proposal, the student must file for IRB approval, if required for the project. Per TGS policy, the faculty mentor may waive the requirement to wait until the proposal is approved to file for IRB approval. 
+
+### Dissertation Format 
+
+Students should prepare their Dissertation in accordance with the guidelines set forth by TGS, with the knowledge that the document will need to be reformatted upon submission to a peer-reviewed journal. Once the Dissertation Committee Chair is satisfied with the student’s Dissertation, the student should distribute the Dissertation to committee members for feedback. Students must address all feedback to the satisfaction of the committee members. The faculty mentor will resolve any disagreements among committee members and ultimately decide when the Dissertation is complete. 
+
+### Dissertation Defense 
+
+Once the Dissertation is complete, the student should work with his or her committee members to identify a mutually convenient date and time for the Dissertation Defense. The student then is required to submit [FORM E – Application for Dissertation Defense Date](https://www.montclair.edu/graduate/wp-content/uploads/sites/58/2020/08/Form-E.pdf) to TGS, accompanied by one hard copy of the dissertation. If the Dean of TGS concurs that the student is ready for the defense, the date is confirmed and the student, Dissertation Committee Chair, or the DCT officially schedules the Dissertation Defense location and time. The Dissertation Committee Chair is required to notify TGS of the location of the defense as soon as it is confirmed. 
+
+Per TGS policy, all members of the Dissertation Committee are required to attend the Dissertation Defense, along with the DCT, an impartial departmental representative, or a representative from TGS (Dean or Associate Dean). The Dissertation Committee Chair is responsible for bringing [Form F – Report of Dissertation Defense](https://www.montclair.edu/graduate/wp-content/uploads/sites/58/2020/08/Form-F.pdf) to the meeting. At the Dissertation Defense, the student should orally present all components of their dissertation and be prepared to answer questions from their Dissertation Committee and others in attendance. 
+
+Three outcomes of the Dissertation Defense, as put forth by the Graduate School are:  
+1. pass – no substantive revisions;
+2. pass with conditions – substantive revisions; and 
+3. fail – second defense required
+
+All committee members must sign FORM F, and the faculty mentor must return it to TGS for final approval by the Dean of TGS within 24 hours. 
+
+For further information on formatting guidelines and other MSU procedures for Dissertations, students should refer to the most recent version of The Graduate School’s [Dissertation Procedures and Guidelines Manual](https://www.montclair.edu/graduate/wp-content/uploads/sites/58/2020/09/Dissertation-Procedures-Guidelines-2020-2021-final.pdf) (note that this manual is from 2020-2021). 
+
+## Calendar
 
 The below is taken from Renata's dissertation - an outline of important dates (AYs 20-22)
 
