@@ -14,7 +14,9 @@ Students are encouraged to submit [FORM B –Approval of the Dissertation Commit
 
 Students’ culminating research experience in the Program is the Dissertation, through which they are expected to make a novel contribution to the field through an analysis of empirical data . For the Dissertation, students must collect and analyze primary data, conduct a novel analysis of secondary data, or complete a meta-analysis that fills a significant gap in the literature. Whereas some students might opt to write their Dissertation in the more traditional, expansive format, students are also welcome to produce a more concise document appropriate for submission to a peer-reviewed journal, provided that their faculty mentor approves of this format.  We note here that students writing a journal-ready document are expected to have the same level of expertise in their topic as those writing in the more traditional dissertation format. 
 
-The Dissertation Committee. The faculty mentor will serve as Chair of the Dissertation Committee.  The Dissertation Committee must have at least three other members; two must be members of the Psychology Department, and one must be either from another MSU department or from an external institution.  Per TGS policy, the student must complete and file FORM B – Approval of the Dissertation Committee, as well as FORM C – Request for Approval of an Outside Dissertation Committee Member if one or more of their committee members do not hold full-time faculty status at MSU. 
+### The Dissertation Committee 
+
+The faculty mentor will serve as Chair of the Dissertation Committee.  The Dissertation Committee must have at least three other members; two must be members of the Psychology Department, and one must be either from another MSU department or from an external institution.  Per TGS policy, the student must complete and file FORM B – Approval of the Dissertation Committee, as well as FORM C – Request for Approval of an Outside Dissertation Committee Member if one or more of their committee members do not hold full-time faculty status at MSU. 
 
 ### The Dissertation Proposal 
 
@@ -35,9 +37,10 @@ Once the Dissertation is complete, the student should work with his or her commi
 Per TGS policy, all members of the Dissertation Committee are required to attend the Dissertation Defense, along with the DCT, an impartial departmental representative, or a representative from TGS (Dean or Associate Dean). The Dissertation Committee Chair is responsible for bringing [Form F – Report of Dissertation Defense](https://www.montclair.edu/graduate/wp-content/uploads/sites/58/2020/08/Form-F.pdf) to the meeting. At the Dissertation Defense, the student should orally present all components of their dissertation and be prepared to answer questions from their Dissertation Committee and others in attendance. 
 
 Three outcomes of the Dissertation Defense, as put forth by the Graduate School are:  
-1. pass – no substantive revisions;
-2. pass with conditions – substantive revisions; and 
-3. fail – second defense required
+
+1. pass – no substantive revisions;  
+2. pass with conditions – substantive revisions; and  
+3. fail – second defense required  
 
 All committee members must sign FORM F, and the faculty mentor must return it to TGS for final approval by the Dean of TGS within 24 hours. 
 
@@ -46,6 +49,8 @@ For further information on formatting guidelines and other MSU procedures for Di
 ## Calendar
 
 The below is taken from Renata's dissertation - an outline of important dates (AYs 20-22)
+
+### Spring Semester (*third* from intended graduation date):
 
 ```{r Spring2021, echo=FALSE, warning=FALSE}
 # Forms for Dissertation found here: 
@@ -72,9 +77,11 @@ text(0.5,0.5,"Defend\n proposal")
 rect(-0.04,-0.04,1.04,1.04, col="#32CD3244")
 
 setday <- cal(5,2021)                              
-setday <- cal(6,2021)
-setday <- cal(7,2021)
-setday <- cal(8,2021)
+```
+
+### Fall Semester (*second* from intended graduation date):
+
+```{r Fall2021, echo=FALSE, warning=FALSE}
 
 setday <-cal(9,2021)
 setday(1)
@@ -91,6 +98,7 @@ setday <-cal(12,2021)
 
 ```
 
+### Spring Semester (*final* from intended graduation date):
 
 ```{r Spring2022, echo=FALSE, warning=FALSE}
 
