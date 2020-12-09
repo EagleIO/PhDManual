@@ -15,4 +15,4 @@ description: "This is the policy manual for the Montclair State University PhD p
 
 ![](culture.jpg)
 
-This is the policy manual for the Montclair State University PhD program in Industrial and Organizational Psychology, last updated `r Sys.Date()`.
+This is the policy manual for the Montclair State University PhD program in Industrial and Organizational Psychology, last updated `r Sys.Date()`. 

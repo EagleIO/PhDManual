@@ -6,12 +6,12 @@
 
 </center>
 
-This handbook details the key procedures and policies for the I/O doctoral and MA program experience. The original goal was to have a final draft of this handbook completed by December 1st 2020, which is the soft deadline for our second official doctoral application cycle. 
+This handbook details the key procedures and policies for the I/O doctoral program experience with some overflow into the MA program (see Chapters \@ref(develop) and \@ref(culture)). The original goal was to have a final draft of this handbook completed by December 1st 2020, which was the soft deadline for our second official doctoral application cycle. 
 
-This manual details formal procedures for the following areas:  
+This manual specifically details formal procedures for the following areas:  
 
 1. Doctoral Student Selection; Chapter \@ref(select),  
-2. I/O Program (MA and PhD) Probation Standards; Chapter \@ref(develop),  
+2. I/O Program (both MA and PhD) Probation Standards; Chapter \@ref(develop),  
 3. Prospective Comprehensive Exams; Chapter \@ref(comps),  
 4. [Student Mentorship](https://bookdown.org/kulasj/mentorship/) and Program Culture; Chapter \@ref(culture), and  
 5. Dissertation Process; Chapter \@ref(dissertation) 

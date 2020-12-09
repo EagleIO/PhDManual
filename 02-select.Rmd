@@ -2,15 +2,15 @@
 
 ![](select.jpg)
 
-The program will be a Fall-only admission to create a seasonal basis for enrollment evaluation, offer latitude in selection (by restricting the start date we have more students apply at once), and help us administratively monitor the process. Most importantly, this offers flexibility in balancing course offerings across the Masters and PhD programs. 
+The PhD program has a Fall-only admission to maintain an annual basis for enrollment evaluation, offer latitude in selection (by restricting the start date we have more students apply at once), and help us administratively monitor the process. Most importantly, this offers flexibility in balancing course offerings across the Masters and PhD programs. 
 
-We wanted a semi-structured process for selecting incoming I/O doctoral students above and beyond GPA, GRE, and letter/resume. As of the second year of admissions (AY 2020-2021), this is being implemented as a two-tiered process. The first phase consists of a *standard I/O Psychology PhD student selection* process whereas the second phase, yet to be developed, will additionally implement additional predictors.[^footie] 
+We wanted a semi-structured process for selecting incoming I/O doctoral students above and beyond GPA, GRE, and letter/resume. As of the second year of admissions (AY 2020-2021), this is being implemented as a two-tiered process. The first phase consists of a *standard I/O Psychology PhD student selection* process whereas the second phase, currently being developed, will additionally implement additional predictors.[^footie] 
 
 [^footie]:This two-phase process recommendation was made in primary consideration of the MSU I/O PhD applicant pool. With additional predictors *above and beyond* the typical, at nascent stages of program development, the concern was that additional application hurdles would limit the size of our applicant pool.
 
 ## Phase I selection 
 
-The recommended Phase I application materials are:
+The Phase I application materials are:
 
 + GRE
 + Undergraduate GPA
@@ -33,11 +33,11 @@ The primary identified KSAs that can be extracted from these standard predictors
     + Transcript
     + Undergraduate GPA
 
-A scoring rubric is not currently available but is recommended - this would need to be developed and agreed upon, and would consist of a scoring system for each predictor (e.g., a conference presentation on the resume = 2 points) as well as a weighting algorithm across predictors.
+A scoring rubric is not currently used but is recommended - this would consist of a scoring system for each predictor (e.g., a conference presentation on the resume = 2 points) as well as a weighting algorithm across predictors.
 
 ### Minimum standards
 
-The application process to the traditional PhD program in I/O psychology follows a two-tiered system. The first tier is a compensatory cutoff where students must submit the following materials and meet the following recommended standards:
+PhD program applicants are evaluated along a two-tiered system. The first tier is a non-compensatory process where students must meet the established standards:
  
 1. Undergraduate GPA of at least 3.40 
     + **OR** a major GPA of at least 3.60 (to offset low grades due to difficult courses)[^1] 
@@ -57,7 +57,7 @@ The application process to the traditional PhD program in I/O psychology follows
 
 [^1]: Or, if they are a recent I/O masters graduate or current I/O masters student, have a GPA of at least 3.5 or greater to reflect ability to handle graduate-level work. If they do not have a BA or BS in Psychology, course work will be individually reviewed for eligibility. Preference will be given to students with an introduction to social science course (e.g., intro to psychology, intro to sociology), I/O Psychology course, statistics (of any discipline), and a research methods course. 
  
-[^2]: Submission of a general GRE score. The mean GRE cutoff for all I/O Psychology doctoral programs is around the 63rd percentile (see Tett et al., 2011), hence preference will be given to students scoring above average on both the verbal and quantitative sub-tests. 
+[^2]: Submission of a general GRE score. The mean GRE cutoff for all I/O Psychology doctoral programs is around the 63rd percentile (see Tett et al., 2013), hence preference will be given to students scoring above average on both the verbal and quantitative sub-tests. 
  
 We are setting recommended minimum criteria at the program’s onset to maximize applicant numbers and alter as necessary. This will also allow more holistic assessment of applicant potential based upon personal statement, program fit, background, and various other markers of potential to succeed. Such standards are flexible and can be adjusted as needed.
 
