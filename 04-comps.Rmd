@@ -6,14 +6,92 @@
 
 </center>
 
-We will be experimenting with a prospective exam model which is heavily built around questions which target their preparation for dissertation work. This means questions targeted at how well they have integrated areas related to their dissertation, prepared methods/analytic approaches to target their question, critically evaluated key areas and known limitations, and show understanding of how their topic will push forward scholarly work.Note this exam is an exit point exam meaning it should be a real possibility for some students to fail and depart with their MA degree. Rogelberg indicated this happened at UNC meaning it still is intended to be a rigorous process. For comps we need a procedure, set of criteria, timeline, and decision on how many phases to complete. I have found many prospective comp policies from other doctoral programs which are very thorough and provide good examples, such as:
+## Qualifying Comprehensive Exam
+
+The qualifying comprehensive exam is an evaluation of integrative mastery of I/O psychological knowledge in relation to a substantive area of specialization. It serves three aims. First, it is a required transition point for admittance to doctoral candidacy. Second, it offers a “midpoint assessment” of the depth and breadth of a student's intended area of research in relation to past courses. Third, preparing for qualifying exams leads the student to consolidate and synthesize substantial amounts of learning for application in research and practice on graduation as well as in meeting the rigors of the dissertation. In short, the qualifying exams will bear a concrete relationship to their dissertation and the work – that is, the research methods and practices – that will be required to complete it.  
+
+ 
+The exam evaluates the student’s ability to communicate:
+
++ An understanding of main theories, findings, and perspectives in I/O psychology
++ An integration and synthesis of empirical and theoretical knowledge
++ A critical analysis of prior research, and
++ Implications for future scholarly and practical work
+
+To be admitted to doctoral candidacy, students must complete both a written and oral exam on their intended dissertation topic and its connection to past work which ensures minimal familiarity and mastery of the relevant theories, empirical findings, reviews, historical trajectories, concepts, measures, techniques, and implications to make a novel and meaningful contribution to the field. Mastery will be defined as understanding enough material to cover two entire courses worth of content, which roughly translates into 60 to 100 source materials. The exam will be offered once each year at the beginning of the Fall semester. This allows the entire summer of their second year for preparation and a make-up opportunity in early winter. Students may take the exam twice. Failure on both attempts will result in dismissal from the program or advanced remediation (see Section \@ref(timeline) for elaboration).
+
+## Eligibility and Timing
+
+Students are eligible for comprehensive exams when they have met the following requirements:  
+
+1. Completed 36-42 credits worth of core methods, I/O, and elective courses (end of year 2)
+2. Completed I/O Research Seminar Readings and Defense (PSYC 691, 692) or I/O MA Thesis (PSYC 698)
+3. Selected a formal program mentor for dissertation and research
+4. Hold a GPA of 3.00 or higher
+
+Each year the I/O Doctoral Director is responsible for assembling the comprehensive exam committee consisting of three or more I/O faculty members. The committee typically includes the Doctoral Director, student’s primary advisor, and at least one independent faculty.  
+
+## General Process and Timelines
+
+The comprehensive examination process begins in the spring after a student has defended their thesis. The comprehensive exam committee (3+ I/O faculty members) will be constituted by the end of the Spring semester (June) and the exam will begin in the start of the Fall of the student’s third year (September). The general process is as follows:  
+
++ To begin the comprehensive exam process, students must submit a **2000-2500 word comprehensive exam proposal and reading list** (see Section \@ref(compprop)) by mid-May to early June to the I/O Director. The proposal and reading list outline intended theoretical and empirical scope of students’ dissertation topic. This is **neither a comprehensive review nor a formal dissertation proposal**; rather, it is an introduction to intended PhD area.
+
++ During the summer, two things occur:
+    + The exam committee drafts 3 general I/O question as they pertain to the student’s comprehensive exam proposal. The questions require synthesizing knowledge from core industrial, organizational, and methodological course topics in relation to the student’s dissertation focus (see Section \@ref(compprop)).
+    
+    + In consultation with their advisor, the student expands the comprehensive exam proposal into a 10-page research proposal showing how they would formulate a hypothetical study to target a specific question. This will include specific aims, significance, innovation or gap addressed, and approach/method. A bibliography of key ideas and seminal works should also be included (not part of page limit).  
+
++ The comprehensive exam is schedule to take place across two phases beginning in September and typically concluding in October.  
+    + Phase one is a single day, open-book written exam. Students are provided the 3 prepared I/O questions and submit written responses along with their 10-page research proposal. The committee has three weeks to evaluate the responses as pass, pass with revision, or fail.
+    
+    + Upon passage of the written portion (including revisions), the student completes an oral defense before the committee to determine if they demonstrate the necessary knowledge to be permitted into doctoral candidacy.  
+
+## Timeline {#timeline}
+
+```{r timeline, echo=FALSE, warning=FALSE, message=FALSE}
+
+library(kableExtra)
+
+timeline <- read.csv("timeline.csv", header=FALSE)
+kable(timeline, col.names=NULL)
+
+```
+
+## Comprehensive Exam Content and Procedure
+
+Qualifying exams will address basic I/O knowledge and synthetic skills in blending evidence to solving an applied research problem. In a sense, these exams can be considered the literature review and problem development phase which occurs in advance of a formal dissertation proposal. Consequently, it will have two parts: (1) exam proposal and reading list, and (2) written and oral defense. The exam proposal and reading list must be submitted at the beginning of the summer of their second year and comprehension of said list in relation to their degree content will be defended in both written and oral form in the beginning of fall their third year.
+
+### Comprehensive Exam Proposal and Reading List {#compprop}
+
+The **exam proposal** should be a 2000-2500 word outline of the intended dissertation topic which offers a general intellectual rationale, supported by key literature, for exploring scholarship in the chosen area. A good overview addresses theoretical, empirical, and practical concerns in a way which justifies investing time, money, and attention to the topic. We suggest the following outline – akin to the first few paragraphs of a paper – moving from general to specific.  
+
+1. General topic overview (1-4 paragraphs)  
+    + What is my research area (State it clearly)
+    + Why do I want to study it? (Scholarly rationale)
+    + Why is this issue important (Theory, empirical findings, organizational application)
+    
+2. Introduction to 2-3 questions or areas of inquiry (1-3 paragraphs).
+    + State of empirical knowledge related to your topic (substantive)
+    + Theoretical, conceptual, or philosophical approaches to studying the topic (frameworks)
+    + Methodological approaches used to study topic (tools, designs, variables, etc…)
+
+3. Elaboration on questions/areas of inquiry (1-4 paragraphs per question)
+    + Clearly stated question or focus of investigation
+    + Bodies of literature, theories, ideas, or arguments to be used to investigate this question
+    + Introduction to main themes, methods, or implications expected to explore with this question (preliminary outline)
 
 
-+ [McGill](https://www.mcgill.ca/socialwork/prospective/phd/comprehensive-exam)
-+ [UMass](https://www.umass.edu/communication/node/861)
-+ [PennState](http://gradschool.psu.edu/graduate-education-policies/gcac/gcac-600/gcac-604-qualifying-exam/)
+However formatted, the purpose of the **exam proposal** is to give the committee an outline of the intellectual rationale, supporting key literature (writers, theories, reviews, emerging topics), and scope of the student's intended topic. The proposal provides an articulation of your entry into scholarship within a chosen domain and the kinds of themes or debates you expect to explore. The **proposal** on your primary questions or areas of inquiry should show the following:  
 
-An example of a traditional I/O comp exams are as follows:
++ Scholarly rationale for question and evidence that is relevant and timely
++ Awareness of key writers, debates, or frameworks
++ Intended scope of question (key versus tangential articles that comprise your focus)
++ Different approaches to answering your questions (e.g., methods or tools)
++ What is expected to be found or gain from this topic (e.g., implication, lessons, results)
 
-+ [Texas A&M](https://liberalarts.tamu.edu/wp-content/uploads/sites/2/2018/02/I-O-area-comps-policy-Nov-16th-2015.pdf)
+
+Attached to the proposal will be a **reading list** containing an appendix of key references (not included in word limit). The list is informally agreed upon by the student and their committee at the onset of Summer, with the bulk of evaluation falling onto the primary advisory. The generally suggested criteria for assemblage include the following: (1) encompass over 60 original empirical, theoretical, or practical sources, of which at least 5 are major books or reviews (quantitative, qualitative); (2) span 3 or more distinct topics related to the student’s dissertation (e.g., work design, leadership, sociotechnical systems) and draw from their specialization (psychology, data science, business/strategy), (3) include influential or seminal citations along with contemporary or emerging thoughts, (4) encompass a blend of both conceptual content (e.g., constructs, hypotheses, phenomena) and methods (e.g., manipulations, techniques, measures, assessment processes, mixed-methods, analyses), (5) cover both criticisms and supporting evidence, and (6) include at least three different disciplines and/or journals (e.g., management, economics, psychology).
+
+Together, the **exam proposal** and readings list will be used to draft 3 comprehensive exam questions as they pertain to the broader discipline. Once the advisor and committee approve of both the exam proposal and reading list, the student is considered to have passed this phase; inability to provide a list within a timely fashion will result in failure and the student will have a set time framed to provide a full list (considered a ‘retake’). 
 
