@@ -2,7 +2,7 @@
 
 ![](select.jpg)
 
-The PhD program has a Fall-only admission to maintain an annual basis for enrollment evaluation, offer latitude in selection (by restricting the start date we have more students apply at once), and help us administratively monitor the process. Most importantly, this offers flexibility in balancing course offerings across the Masters and PhD programs. 
+The PhD program has a Fall-only admission to maintain an annual basis for enrollment evaluation, offer latitude in selection, and help us administratively monitor the process. Most importantly, this offers flexibility in balancing course offerings across the Masters and PhD programs. We value a balanced skill and experience profile across students, so evaluation doesn't merely occur at the individual level, but rather a diversity of orientations across students and faculty.
 
 We wanted a semi-structured process for selecting incoming I/O doctoral students above and beyond GPA, GRE, and letter/resume. As of the second year of admissions (AY 2020-2021), this is being implemented as a two-tiered process. The first phase consists of a *standard I/O Psychology PhD student selection* process whereas the second phase, currently being developed, will additionally implement additional predictors.[^footie] 
 
@@ -17,11 +17,10 @@ The Phase I application materials are:
 + 3 letters of recommendation
 + Statement of interest
 + Transcript
-+ Resume
 
 This foundation of predictors will be expanded upon once the MSU I/O Program PhD attains a level of establishment or otherwise has proven a robust annual applicant pool (a minimum of 35 completed applications).
 
-The primary identified KSAs that can be extracted from these standard predictors are: 
+The primary identified KSA's that can be extracted from these standard predictors are: 
 
 + General cognitive ability  
     + GRE
@@ -32,42 +31,58 @@ The primary identified KSAs that can be extracted from these standard predictors
 + Knowledge
     + Transcript
     + Undergraduate GPA
++ Interest in I/O
+    + Statement of interest
++ Interest outside of I/O (Multidisciplinary)
+    + Statement of interest
+    + Transcript
++ Civic engagement (pro-social interests)
+    + MSU application form
+    + Statement of interest
 
-A scoring rubric is not currently used but is recommended - this would consist of a scoring system for each predictor (e.g., a conference presentation on the resume = 2 points) as well as a weighting algorithm across predictors.
+### Recommended minimum standards
 
-### Minimum standards
-
-PhD program applicants are evaluated along a two-tiered system. The first tier is a non-compensatory process where students must meet the established standards:
+Successful PhD program applicants are evaluated along a two-tiered system. The first tier is a non-compensatory process where students meet the following minimum standards:
  
 1. Undergraduate GPA of at least 3.40 
     + **OR** a major GPA of at least 3.60 (to offset low grades due to difficult courses)[^1] 
-    + We are looking for strong GPA commensurate with background courses.
+
 2. GRE 
     + Quantitative (50th %ile or greater)
     + Verbal (50th %ile or greater)[^2]
+    + Analytical (4.0 or greater)
+
 3. Three letters of recommendation
     + preference given to academic recommendations
+
 4. Writing sample
     + preference given to scientific/scholarly writing style
-5. Personal statement
+
+5. Statement of interest[^6]
     + clear articulation of educational and professional goals
     + learning objectives
     + research interests and experience 
-    + long-term professional objectives.
+    + long-term professional objectives
 
-[^1]: Or, if they are a recent I/O masters graduate or current I/O masters student, have a GPA of at least 3.5 or greater to reflect ability to handle graduate-level work. If they do not have a BA or BS in Psychology, course work will be individually reviewed for eligibility. Preference will be given to students with an introduction to social science course (e.g., intro to psychology, intro to sociology), I/O Psychology course, statistics (of any discipline), and a research methods course. 
+[^1]: Or, if they are a recent I/O masters graduate or current I/O masters student, have a GPA of at least 3.5 or greater to reflect ability to handle graduate-level work. If they do not have a BA or BS in Psychology, course work will be individually reviewed for eligibility. Preference will be given to students with an introduction to social science course (e.g., intro to psychology, intro to sociology), I/O Psychology course, statistics (of any discipline), and a research methods course. We are looking for strong GPA commensurate with background courses.
  
 [^2]: Submission of a general GRE score. The mean GRE cutoff for all I/O Psychology doctoral programs is around the 63rd percentile (see Tett et al., 2013), hence preference will be given to students scoring above average on both the verbal and quantitative sub-tests. 
- 
-We are setting recommended minimum criteria at the program’s onset to maximize applicant numbers and alter as necessary. This will also allow more holistic assessment of applicant potential based upon personal statement, program fit, background, and various other markers of potential to succeed. Such standards are flexible and can be adjusted as needed.
+
+[^6]: We want to make this less open-ended and specify particular dimensions of interest so we can evaluate everyone along the same characteristics. We want to expand on this within Phase II.Submit a personal statement that clearly articulates educational and professional goals. The personal statement should explain the applicant’s reasons for applying, his/her learning objectives, research interests and experience and long-term professional objectives. 
+
+A template scoring rubric is [here](https://docs.google.com/spreadsheets/d/1qBX6unvkEDhynRKpsIv-GMa3ysUSoQRA-c2cPIZijII/edit?usp=sharing). This can be further developed (e.g., a conference presentation on the resume = 2 points) as well as a weighting algorithm across predictors.
 
 ## Phase II selection {#ksa}
 
-Phase II selection materials may be be found or developed based on the KSAs presented here. The intent is for this list to expand - ideally being informed, in part, by information gleaned from current PhD students.
+Phase II selection materials may be be found or developed based on the KSAs presented here. The intent is for this list to expand - ideally being informed, in part, by information gleaned from current PhD students. We want a balanced cohort of students (balance of interests and skills).
 
 KSAs to consider in making Phase II admissions decisions:
  
-+ psychology knowledge
++ Statement of interest should target specific desired dimensions
+    + Prosocial orientation
++ Resume
++ Echoing diversity of faculty skill sets 
+    + Inside and outside of I/O
 + conceptual skills
 + learning orientation
 + writing skills 
@@ -84,7 +99,7 @@ library(kableExtra)
 Measure <- c("Purpose Statement", "Research Experience", "Letters of Recommendation", "Undergraduate GPA", "GRE Verbal", "GRE Quantitative", "Locus of Control", "Humility with Mistakes", "Interview")
 Minimum <- c("Qualitative", "Qualitative", "Qualitative", "3.6", "50th %ile", "50th %ile", "", "", "Qualitative") 
 Future <- c("Develop scoring rubric?", "Develop scoring rubric?", "Develop scoring rubric?", "", "", "", "Internally developed measure", "Internally developed measure")
-Notes <- c("", "", "", "Likely too much inflation to place emphasis on graduate GPA for post-masters' applicants", "50th a placeholder", "50th a placeholder", "Anything beyond typical application materials will likely reduce our applicant pool", "Anything beyond typical application materials will likely reduce our applicant pool", "Anything beyond typical application materials will likely reduce our applicant pool")
+Notes <- c("We can develop after more focused questions have been developed", "Did they manage a lab? Was it specifically in I/O? What areas do they have experience in?", "Can we ask MSU if they can add additional quesitons to the letter of recommendation form?", "Likely too much inflation to place emphasis on graduate GPA for post-masters' applicants", "50th a placeholder", "50th a placeholder", "Anything beyond typical application materials will likely reduce our applicant pool", "Anything beyond typical application materials will likely reduce our applicant pool", "Anything beyond typical application materials will likely reduce our applicant pool")
 
 dt <- as.data.frame(cbind(Measure,Minimum,Future,Notes))   ## issues with .csv and GitHub (6/8/20)
 
@@ -93,25 +108,10 @@ kable(dt)
 
 ```
 
-### Methods of assessing Phase II constructs
 
-There is a desire for an interview. A semi-structured interview could be developed where the applicants are asked to demonstrate: 
+## Selection Procedure
 
-1. their knowledge of psychology or I/O topics (e.g., how would you apply a leadership theory to X, explain to us one I/O research finding, what one psychology theory would you use to explain human behavior at work, etc…), and 
-2. efforts they have made to learn more about a complex topic in our field. These would address the psychology knowledge and learning orientation/motivation KSAs. 
-
-Another possibility is having them submit a writing sample in response to several targeted prompts (e.g., formulate a motivational hypothesis; formulate a plan for running a statistical test; articulate an interesting research question blending current workplace issues and pre-existing empirical evidence). 
-
-## Selection Process
-
-The second piece of the selection process is the procedural. Should we review everyone as a group and approve followed by individual interviews? Or should it just be a group decision and then we give accepted students one year to find a good fit with one of us as a research advisor?
-
-Here are a few other general overviews of how other programs select their students
-
-+ [Jackson State](http://www.jsums.edu/psychology/ph-d-in-clinical-psychology-student-admission-outcomes-and-other-data/forms/)
-+ [Portland State](https://www.pdx.edu/psy/graduate-faqs#faq09.htm)
-+ [Chatanooga](https://www.utc.edu/psychology/graduate/msiopysch/ioadmissionscriteria.php)
-
+Core I/O faculty reviews completed applications by December 15. Everyone is expected to provide a personal candidate ranking. 
 
  
 ### Beyond minimum qualifications
@@ -124,39 +124,19 @@ We have adapted a slightly different set of criteria for those applying to the D
  
 Have an undergraduate GPA of at least 3.00 or a major GPA of at least 3.20 (to offset low grades due to difficult courses). Or, if they are a recent I/O masters graduate or current I/O masters student, have a GPA of 3.5. 
  
-Preferable to have a BA, BS, or a minor in computer science, mathematics, or commensurate STEM discipline. Provide evidence of technical skills, technological problem solving, or programming experience. 
- 
-Preferable if they have taken calculus, statistics, and an introductory computer science course, and received a B or higher in each course. If not calculus (or pre-calculus), it is acceptable to have taken discrete mathematical structures or a mathematical logic/set theory course. Approved online equivalents (e.g., MOOCs) are acceptable. 
+**Preferable to have a BA, BS, or a minor in computer science, mathematics, or commensurate STEM discipline. Provide evidence of technical skills, technological problem solving, or programming experience. Preferable if they have taken calculus, statistics, and an introductory computer science course, and received a B or higher in each course. If not calculus (or pre-calculus), it is acceptable to have taken discrete mathematical structures or a mathematical logic/set theory course. Approved online equivalents (e.g., MOOCs) are acceptable.** [DO WE WANT TO DELETE THIS?]
  
 Preference will be given to students who have completed undergraduate courses in an introductory social science course (e.g., intro psychology, intro to sociology), an Industrial-Organizational course, and Research Methods. Approved online equivalents (MOOC) are acceptable.
  
-Preference for students scoring above average on both the verbal and quantitative GRE sub-tests. 
- 
-Submit three letters of recommendation.
- 
-Submit a writing sample that demonstrates to the department the student can write in a scientific and scholarly manner.
- 
-Submit a personal statement that clearly articulates educational and professional goals. The personal statement should explain the applicant’s reasons for applying, his/her learning objectives, research interests and experience and long-term professional objectives. 
- 
 For students entering without suggested computer science pre-requisites, the Computer Science department offers two courses to rectify deficiencies in programming and data structures. These can be taken across their first year or in advance of admittance. The first is an introduction to Java programming along with designing algorithms and numerical computing (CSIT 501 Java Programming) and the second is an introduction to the design and analysis of computer data structures (CSIT 503 Data Structure). Student’s lacking background in hard sciences, mathematics, computer science, or programming will be required to complete each course outsidethe program’s required 79 credits (see advanced electives below). 
  
-The program will also adopt a matriculation process so anyone entering the MA program could advance into the PhD program if (a) they attain top-tier grades, (b) demonstrate research aptitude in coursework, (c) complete an applied research project (or thesis) as a capstone project, (d) secure sponsorship from a primary faculty member, and (e) show active involvement in the program per annual reviews. This offers (a) lagging students a leg-up to enter the PhD program if they demonstrate competence, and (b) MA students who show aptitude for a PhD but perhaps never contemplated it due to lack of mentorship at the undergraduate level. Students from the MA can apply for the PhD program to be considered for entrance into the doctoral program and have their MA courses count towards the PhD requirements as the two programs overlap in courses for the first two years. This enables us to recruit the top talent from our MA program and encourages multiple entry points into the doctorate program for individual at varying levels in their career or development. At the same time, due to low selection ratios, we will stress acceptance into the PhD is not guaranteed and will remain competitive. 
- 
 ## Waiving MA Credit 
- 
-Over time make lists of which schools we accept pull credits from...
 
-If the syllabus matches at a similar level of rigor and content, then it counts toward the MSU PhD.
+The program will also adopt a matriculation process so anyone entering the MA program could advance into the PhD program if (a) they attain top-tier grades, (b) demonstrate research aptitude in coursework, (c) complete an applied research project (or thesis) as a capstone project, (d) secure sponsorship from a primary faculty member, and (e) show active involvement in the program per annual reviews. This offers (a) lagging students a leg-up to enter the PhD program if they demonstrate competence, and (b) MA students who show aptitude for a PhD but perhaps never contemplated it due to lack of mentorship at the undergraduate level. Students from the MA can apply for the PhD program to be considered for entrance into the doctoral program and have their MA courses count towards the PhD requirements as the two programs overlap in courses for the first two years. This enables us to recruit the top talent from our MA program and encourages multiple entry points into the doctorate program for individual at varying levels in their career or development. At the same time, due to low selection ratios, we will stress acceptance into the PhD is not guaranteed and will remain competitive. 
 
 In accordance with the Graduate School, students who have taken graduate work or completed a MA at a regionally accredited institution in psychology, organizational psychology, business administration, data science, or a related field may be allowed to waive up to 24 graduate credits. Eligible courses for waiver typically include the core I/O Psychology courses (currently 22 credits), methods/stats (15 credits), and, if completed and presented an original empirical project at a prior institution, the I/O Research Seminars (6 credits). 
  
 To qualify for waiver, the following criteria apply: an official transcript for desired transfer courses, equivalence to the MSU I/O courses and/or thesis project, a grade earned of “B” or higher, course taken within 10 years prior to matriculation, and the Doctoral Program Director approves the waiver. Any waiver petitions should be submitted alongside materials submitted during application to the doctoral program. Waivers will not be awarded for courses that were used within another MSU degree program. 
  
 The number of courses that may be waived is determined on a case-by-case basis by the Graduate School, I/O Program, and student’s assigned advisor. Although the department will help students with general questions about these issues, we will only conduct formal/binding reviews of course waivers until after the student has passed initial hurdles to be considered a viable applicant for acceptance into the program.It is anticipated no students will be eligible to transfer directly into doctoral candidacy; rather, most will need to complete a portion of MSU’s core I/O Psychology courses, an original thesis or IO research seminars, and pass qualifying exams before advancing. 
- 
-## MSU program MA students
-
-We haven't outlined any shared criteria among the faculty for how to make decisions about letting in current MA students or even choosing between them. We always said they should be working on their thesis and making great progress towards turning it into a submittable product + should probably be involved in faculty research first year. However, this would disadvantage later bloomers who maybe realize 2nd year want to go doc. 
-
-Hence, in my head, at least three things should occur: (1) they should be a top student in terms of GPA, (2) at least one faculty member would endorse them as doctoral material (or able to get there) and these persons may implicitly be willing to serve as their mentor, and (3) they should be working on a thesis 2nd year and show potential for original research conceptualization, quality writing, and analytical acumen. 
 
