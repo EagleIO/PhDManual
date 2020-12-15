@@ -49,7 +49,7 @@ Successful PhD program applicants are evaluated along a two-tiered system. The f
 
 2. GRE 
     + Quantitative (50th %ile or greater)
-    + Verbal (50th %ile or greater)[^2]
+    + Verbal (50th %ile or greater)
     + Analytical (4.0 or greater)
 
 3. Three letters of recommendation
@@ -66,7 +66,7 @@ Successful PhD program applicants are evaluated along a two-tiered system. The f
 
 [^1]: Or, if they are a recent I/O masters graduate or current I/O masters student, have a GPA of at least 3.5 or greater to reflect ability to handle graduate-level work. If they do not have a BA or BS in Psychology, course work will be individually reviewed for eligibility. Preference will be given to students with an introduction to social science course (e.g., intro to psychology, intro to sociology), I/O Psychology course, statistics (of any discipline), and a research methods course. We are looking for strong GPA commensurate with background courses.
  
-[^2]: Submission of a general GRE score. The mean GRE cutoff for all I/O Psychology doctoral programs is around the 63rd percentile (see Tett et al., 2013), hence preference will be given to students scoring above average on both the verbal and quantitative sub-tests. 
+Submission of a general GRE score. The mean GRE cutoff for all I/O Psychology doctoral programs is around the 63rd percentile [see @tett_2011_2013], hence preference will be given to students scoring above average on both the verbal and quantitative sub-tests. 
 
 [^6]: We want to make this less open-ended and specify particular dimensions of interest so we can evaluate everyone along the same characteristics. We want to expand on this within Phase II.Submit a personal statement that clearly articulates educational and professional goals. The personal statement should explain the applicant’s reasons for applying, his/her learning objectives, research interests and experience and long-term professional objectives. 
 
@@ -74,7 +74,7 @@ A template scoring rubric is [here](https://docs.google.com/spreadsheets/d/1qBX6
 
 ## Phase II selection {#ksa}
 
-Phase II selection materials may be be found or developed based on the KSAs presented here. The intent is for this list to expand - ideally being informed, in part, by information gleaned from current PhD students. We want a balanced cohort of students (balance of interests and skills).
+Phase II selection materials may be be found or developed based on the KSAs presented here. The intent is for this list to expand - ideally being informed, in part, by information gleaned from current PhD students. We want a balanced cohort of students (balance of interests and skills). 
 
 KSAs to consider in making Phase II admissions decisions:
  
@@ -88,8 +88,10 @@ KSAs to consider in making Phase II admissions decisions:
 + writing skills 
 + Research experience
 + Recommended minimum GPA (3.6)
-+ Internal locus of control
++ Internal locus of control [see also @bledow_situational_2009]
 + Humility with mistakes 
+
+More generally see @oswald_developing_2004.
 
 Additionally, there was a recommendation to maybe go back to the [PAD](https://docs.google.com/document/d/1eXTDvfQWcNplMgt8zbVZldw-ByelTlfpzYORBGq423c/edit?usp=sharing) and extract constructs from there
 
