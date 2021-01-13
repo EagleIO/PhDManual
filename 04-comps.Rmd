@@ -35,7 +35,7 @@ This would be a theoretical expansion and review of recent meta-analyses, articl
 
 **3. Preventing team dissolution: antecedents, processes, and interventions**
 
-In this paper one could review the literature focused primarily on how to prevent a team from falling apart over time. The time part is crucial to distinguish from reviews which focus purely on team conflict (disagreement) to a broader consideration of teams disconnecting, disbanding, or even working against one another over time. It also extends beyond conflict to consider other drivers of team dissolution, such as stress, lack of alignment, poor design, and team composition. Finally, the review would be unique in emphasizing any interventions and mechanisms which help teams overcome conflict, stay resilient, maintain cohesion, or hit other processes that help teams stay together. Some of this work is being pursued for teams in extreme environments, such as astronauts on long-term space missions. This could even be a meta-analysis if there are sufficient number of studies looking at an outcome representing team dissolution. One could then provide an integration and analysis of why interventions don’t always work as expected for team dissolution and provide recommendations for moving forward.  
+In this paper one could review the literature focused primarily on how to prevent a team from falling apart **over time**. The time part is crucial to distinguish from reviews which focus purely on team conflict (disagreement) to a broader consideration of teams disconnecting, disbanding, or even working against one another over time. It also extends beyond conflict to consider other drivers of team dissolution, such as stress, lack of alignment, poor design, and team composition. Finally, the review would be unique in emphasizing any interventions and mechanisms which help teams overcome conflict, stay resilient, maintain cohesion, or hit other processes that help teams stay together. Some of this work is being pursued for teams in extreme environments, such as astronauts on long-term space missions. This could even be a meta-analysis if there are sufficient number of studies looking at an outcome representing team dissolution. One could then provide an integration and analysis of why interventions don’t always work as expected for team dissolution and provide recommendations for moving forward.  
 
 **4. A cross-cultural analysis of career development trajectories**
 
@@ -52,9 +52,94 @@ Students are eligible for comprehensive exams when they have met the following r
 
 ## Timeline and Process
 
-Each year the I/O Doctoral Director is responsible for assembling the comprehensive exam committee consisting of three or more I/O faculty members. The committee typically includes the Doctoral Director, student’s primary advisor, and at least one independent faculty.  
+The comprehensive examination process begins in the spring after a student has defended their thesis. The I/O Doctoral Director is responsible for assembling an annual exam committee consisting of three or more I/O faculty members. The committee typically includes the Doctoral Director, student’s primary advisor, and one or more independent faculty. The committee will be constituted by the end of the Spring semester (June) and the exam itself will begin in the start of the Fall of the student’s third year (September). The general process is as follows:
 
-## General Process and Timelines
+1. **Idea Develolpment:** We strongly encourage students to consult with their supervisor for help in picking a comps paper topic, as he or she is the expert in your area. Ideally, this will begin some point during your second year with January being a good starting point to start reviewing ideas and articles. Once students have picked a topic, we also encourage consultation with members of the comprehensive committee to determine whether the topic meets the criteria for a comps paper and for any questions about the paper’s structure prior to drafting the proposal. 
+
+2. **Proposal:** To begin the comprehensive exam process, students must submit a **3-page proposal and example reading list** (see below) by **May 31st** to the I/O PhD Director and exam committee. The proposal and reading list outline intended theoretical and empirical scope of the intended literature review and should include the following sections:
+    + **Breadth of Review:** Explain why the area is important for work psychology, why the review is needed, and how the review advances the field. Include:
+        + Relevant theories or principles
+        + At least two domains, ideas, controversies, methods, or topics to be discussed (e.g., leadership, development, motivation, statistical technique, person v. situation, dynamic criteria, wearable sensors, assessment method, income inequality, etc…)
+        + General approach to how review will be conducted (qualitative, quantitative, how comprehensive, boundaries, etc…) 
+    + **Review method:** Describe methodology for selecting articles and reviewing findings (see resources and tutorials below)
+    + **Example articles:** list several example articles to be reviewed, including any specified by student’s advisor
+    
+3. **Conduct Review:** During the summer and in consultation with their advisor, the student expands the comprehensive exam proposal into a formal systematic review (see tutorials and suggested readings below, especially Torraco, 2016). The literature review is expected to demonstrate all the following: clear and concise writing, significance, logical or thematic organization, method of review, critical analysis of existing literature, synthesis of findings into new knowledge, exploration of emerging developments or topics, and foundations for future research. While length will vary depending on topic and scope, a typical review/meta-analysis is between 8,000 – 12,000 words. A bibliography of all reviewed works should also be included (not part of page limit).
+
+4. **Review Submission and Evaluation:** The final draft of the review is due **September 1st**. This coincides with SIOP submission deadlines so the student may also submit an abbreviated version of the manuscript to be considered for the annual SIOP conference. In the spirit of journal reviews, the committee has three weeks to evaluate the product as “accepted”, “minor revision”, “major revision” or “rejection” (which amounts to a fail). If “major revision”, then student has 1 month to address comments otherwise the submission is a fail.  
+
+5. **Oral Defense:** Doctoral candidates are expected to be able to communicate effectively and knowledgably both in writing and orally. Within a month of passing the written component (including with revisions), the student completes an oral defense of their literature review. Students are expected to be able to discuss key subject areas or fields of research and to clarify, summarize, or assert different positions or arguments taken in prior written work.
+The oral exam itself is to begin with a brief introduction by the PhD Director, with the exam protocol being outlined. The student is expected to present a brief overview of their written portion of the exam. Each member of the committee is given a chance to ask questions, but the format will often shift between relatively structured questioning and a more free-flowing discussion. The discussion will center on the student's literature review but the scope of the exam is not necessarily limited to that material. The examiners will be looking to fill in any perceived gaps in the written work, and to more generally assess the student's facility with the literature and empirical material.
+Passage of the oral comprehensive exam signifies the student has appropriate mastery of the field’s central material and is permitted into doctoral candidacy to conduct focused and independent dissertation work. 
+
+### Timeline {#timeline}
+
+```{r timeline, echo=FALSE, warning=FALSE, message=FALSE}
+
+library(kableExtra)
+
+timeline <- read.csv("timeline.csv", header=FALSE)
+kable(timeline, col.names=NULL, caption = "Timeline")
+
+```
+
+## Grading
+
+### Literature Review Rubric
+        
+Grading criteria will be based on both included content and quality of reasoning. Content is based upon the Torraco (2016) checklist for integrative literature reviews which includes evidence of the following: 
+
++ **Goal:** Is the topic, scope, need, boundaries, and perspective of the review articulated?
++ **Organization:** Is the review organized around logical flows of ideas with a coherent narrative and primary themes? May include diagrams or visual representation.
++ **Methods:** Are the methods for the review sufficiently described, such as how articles identified, included, analyzed, and described? Is the process repeatable?
++ **Critical Analysis:** Identify deficiencies, omissions, conflicts, strengths, and weaknesses of current literature? What is poorly represented or unaddressed?
++ **Synthesis:** Are new ideas, insights, or propositions provided? Might include research agendas, taxonomies, alternative concepts or models, meta-analytic conclusions, or metatheory. 
++ **Future:** Does the review explore future of the topics for the field, such as trends, interdisciplinary developments, or new directions? Is there a foundation for future research or direction on which to build questions?
+
+Quality is reflected in how well the student organizes, integrates, and evaluates previously published material (Bem, 1995). As such, they clearly defined and clarify the problem; summarize previous work in the area; identify relationships, contradictions, gaps, and inconsistencies; and suggested the next step or steps in solving the problem. The cognitive complexity or ‘critical thinking’ exerted in the synthetic function of the review will be evaluated using a simplified variant of Bloom’s Taxonomy of cognitive reasoning to graduate-level writing (Granello, 2001). 
+
+```{r bloom, echo=FALSE, warning=FALSE, message=FALSE}
+
+bloom <- read.csv("bloom.csv", header=TRUE)
+kable(bloom, caption = "Application of Bloom’s Taxonomy to Evaluating the Integrated Literature Review")
+
+```
+
+Based upon both the content and quality of the review, each committee member will globally evaluate the review with commentary and render a final decision, just like journal reviewers would. The outcome may be “accepted”, “minor revision”, “major revision”, or “reject”.  If the outcome is “accepted” or “minor revision”, the student proceeds to step 4. If the outcome is major revision, the student must revise the article according to the committee’s comments and achieve an outcome of “accepted” or “minor revision” within a single month; otherwise, the student receives one “fail” and has another month to redress before termination. Finally, if the paper is “reject” the student automatically receives one fail and must reformulate and rewrite substantial portions of their paper and similarly attain an outcome of “accepted” or “minor revision” in order to remain in the doctoral program.  
+
+### Oral Exam Rubric
+
+## Program Dismissal Due to Failed Comprehensive Examination
+
+If a student does not pass their comprehensive examination after all re-attempts have been exhausted, then the following will occur:  
+
+1. The student will be notified in writing that s/he is being dismissed from the PhD program at the end of the current semester due to a failure to pass the comprehensive examination. The student is still eligible to receive an MA degree assuming coursework and capstone have been completed. Notification of dismissal should occur as soon as possible. Either the faculty or the student may request a meeting to discuss the dismissal decision and notification.
+
+2. The student may appeal his/her dismissal to the Dean of the College within five (5) business days of receiving notification of such dismissal.
+
+3. The student may appeal a decision to uphold the dismissal by the Dean of the College to the Dean of the Graduate College and the Office of the Provost within five (5) business days of receiving notification of the Dean of the College’s decision.
+
+4. A decision to uphold the dismissal by the Dean of the Graduate College and the Office of the Provost may be appealed to the President of the University within five (5) business days of receiving notification of the Dean of the Graduate College/Office of the Provost’s decision. The decision of the President is final.
+
+## Resources and Structure for Writing a Systematic Review
+
+Systematic literature reviews occupy an important cornerstone in scientific advancement by summarizing, synthesizing, and critiquing a representative set of literature on a focused topic in an integrated way to produce new frameworks, perspectives, and directions. There are a variety approaches to literature review, including meta-analysis, bibliographic, narrative, critical, or tutorial. Regardless the approach, the purpose of a literature review is to objectively report the current knowledge on a topic and base this summary on previously published research. A useful review serves as a foundation for advancing knowledge, facilitating theory development, closing mature research areas, and uncovering novel research topics.
+
+When crafting a literature review it is important to **summarize** findings into **theoretical implications or propositions** rather than produce a descriptive, annotated bibliography of loosely connected facts. This means you *must impose* some conceptual structure on how the review is conducted which entails several steps. First, there must be a **goal or purpose** to advance understanding of a specific issue. Is this an update of new knowledge for a topic or a temporal review of all findings over several decades? Is the purpose to synthesize, critique, or reconceptualize the topic? Is there a specific question (generalizability, antecedents, time span, growing popularity, convergence of ideas) to be addressed? Is there confusion regarding meaning, value, or application which requires clarification and order? Will the review compare major competing approaches, definitions, and tools? The goal should help establish the *need*, *significance*, or *value* of the review and provide boundaries around what the review attempts to accomplish.
+
+Second, it must be **systematic** in that the review process should be transparent and reproducible. What databases where used? How does it expand pat reviews? What keywords used to identify? Criteria used for study inclusion or exclusion (e.g., language, method, article type)? The student should outline their search strategy for identifying relevant literature in a systematic way so others could replicate the process. Building on the method, students must also choose the right balance between **breadth and depth** when identifying and describing past research. The review should be comprehensive enough to include all relevant studies but also focused enough to highlight important or prototypical studies in detail to promote understanding. It is one thing to say you will review everything about work attitudes and another to specifically review the moderators, mediators, and outcomes of procedural justice in the public sector. The **scope** of the review dictates what will be covered and often depends on the focus and field’s maturity level with long-standing topics requiring that the student synthesize a large body of literature, in comparison to a review on a more novel field where only few studies exist. When very broad, the student can make use of tables and concepts to illustrate findings in an efficient manner.
+
+Three, students should focus on *concepts* rather than *individual studies* in analysis and synthesis. This might include historical development, themes, or methodological variations. Careful identification and evaluation of the underlying ideas, constructs, propositions, or hypotheses linking research promotes deeper understanding of the review’s purpose which then guide the analysis conducted. This is done by extracting relevant results or theories, critically analyzing literature to identify ongoing issues or concepts, and synthesizing findings in a way to identify meaningful cross-study patterns. This can (but need not) lead to a new conceptual framework with propositions. Either way, focusing on concepts instead of studies helps identify controversies and commonalities which builds towards a more coherent and integrative manuscript.  
+
+Finally, a literature review should *derive conclusions and tell the reader where to go*. This reiterates the point a systematic review **must go beyond a descriptive summary of prior literature**. While it is important to describe studies included, it is essential go one step further by evaluating the evidence and recent trends to develop priorities for future research. This is done by deriving meaningful conclusions which answers the questions: What do we learn from this summary and what comes next? This includes carefully evaluating and deriving implications; pointing out gaps, omissions, discrepancies, or conflicts in the literature; and outlining directions for future research. 
+
+Following the steps above provides a coherent review structure which is useful for developing or evaluating a theory, method, or practice. The introduction motivates the topic and describes the contributions of the literature review. The next section describes the systematic review process and the key concepts used. After that, the crucial part is the synthesis and interpretation of the literature review’s findings. This section can but need not lead to the derivation of propositions or a conceptual. The final section of a literature review provides a conclusion and discussion with the boundaries of the review and the future research areas. The order of the sections is not static and can vary depending on the student’s topic. For example, one can also put suggestions for future research directly into the body of the article where the main findings from the literature review are described and/or discussed. However, a coherent structure is an absolute necessity for a systematic literature review.
+
+## Articles, Editorials, and Example Reviews
+
+
+
+## OLD STUFF (AS OF 1/7/21)
 
 The comprehensive examination process begins in the spring after a student has defended their thesis. The comprehensive exam committee (3+ I/O faculty members) will be constituted by the end of the Spring semester (June) and the exam will begin in the start of the Fall of the student’s third year (September). The general process is as follows:  
 
@@ -70,16 +155,6 @@ The comprehensive examination process begins in the spring after a student has d
     
     + Upon passage of the written portion (including revisions), the student completes an oral defense before the committee to determine if they demonstrate the necessary knowledge to be permitted into doctoral candidacy.  
 
-## Timeline {#timeline}
-
-```{r timeline, echo=FALSE, warning=FALSE, message=FALSE}
-
-library(kableExtra)
-
-timeline <- read.csv("timeline.csv", header=FALSE)
-kable(timeline, col.names=NULL)
-
-```
 
 ## Comprehensive Exam Content and Procedure
 
