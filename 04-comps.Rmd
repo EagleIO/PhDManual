@@ -6,19 +6,40 @@
 
 </center>
 
-## Qualifying Comprehensive Exam
+## Integrative Literature Review Qualifying Comprehensive Exam
 
-The qualifying comprehensive exam is an evaluation of integrative mastery of I/O psychological knowledge in relation to a substantive area of specialization. It serves three aims. First, it is a required transition point for admittance to doctoral candidacy. Second, it offers a “midpoint assessment” of the depth and breadth of a student's intended area of research in relation to past courses. Third, preparing for qualifying exams leads the student to consolidate and synthesize substantial amounts of learning for application in research and practice on graduation as well as in meeting the rigors of the dissertation. In short, the qualifying exams will bear a concrete relationship to their dissertation and the work – that is, the research methods and practices – that will be required to complete it.  
+The I/O comprehensive exam is a prospective analysis of the student’s readiness to embark upon their dissertation research. This will take the form of a **publishable** integrative, theoretical, or meta-analytic literature review on the student’s broad area of study. The topic can **expand** the scope of their dissertation and should be comparable to papers published in [*Psychological Bulletin*](https://www.apa.org/pubs/journals/bul), [*Academy of Management Review*](https://journals.aom.org/journal/amr), [*Annual Review of Organizational Psychology and Organizational Behavior*](https://www.annualreviews.org/orgpsych/planned), [*Journal of Management*](https://journals.sagepub.com/home/jom) (biannual review), [*Psychological Review*](https://www.apa.org/pubs/journals/rev), and so forth. A full listing of outlets publishing literature reviews, tutorials on how to write reviews, and examples of reviews are provided below; the student is encouraged to peruse these materials for examples and guidance. The reviewed research topic must bridge multiple theories, concepts, controversies, or findings within a domain of work psychology, systematically organize and review published findings in the area, and identify the key challenges and future directions for the area. Note the quality of the paper must be very high with the exam evaluating the student’s ability to demonstrate:
 
- 
-The exam evaluates the student’s ability to communicate:
-
-+ An understanding of main theories, findings, and perspectives in I/O psychology
-+ An integration and synthesis of empirical and theoretical knowledge
++ An understanding of main theories, findings, and perspectives in a specialized topic
++ An integration and synthesis of empirical and theoretical knowledge for a chosen topic 
 + A critical analysis of prior research, and
 + Implications for future scholarly and practical work
 
-To be admitted to doctoral candidacy, students must complete both a written and oral exam on their intended dissertation topic and its connection to past work which ensures minimal familiarity and mastery of the relevant theories, empirical findings, reviews, historical trajectories, concepts, measures, techniques, and implications to make a novel and meaningful contribution to the field. Mastery will be defined as understanding enough material to cover two entire courses worth of content, which roughly translates into 60 to 100 source materials. The exam will be offered once each year at the beginning of the Fall semester. This allows the entire summer of their second year for preparation and a make-up opportunity in early winter. Students may take the exam twice. Failure on both attempts will result in dismissal from the program or advanced remediation (see Section \@ref(timeline) for elaboration).
+To be admitted to doctoral candidacy, students must complete both a written and oral exam on their literature review and its connection to past work to ensure familiarity and mastery of relevant theories, empirical findings, reviews, historical trajectories, concepts, measures, techniques, and implications to make a novel and meaningful contribution to the field. Mastery will be defined as understanding, analyzing, and integrating enough general and specialized material literature to cover two entire courses worth of content, which roughly translates into 40+ source materials. The exam will be offered once each year at the start of the Fall semester. This allows the entire summer of their second year for preparation and a make-up opportunity in early winter. Students may take any portion of the exam twice. Two failure attempts will result in dismissal from the program or advanced remediation (see Section \@ref(timeline) for elaboration).
+
+## Scope of Review
+
+The topic should be broad enough that students are able to find enough published papers to support the review. However, it should be focused enough that the paper has depth and students are able to thoughtfully explore the methodological and theoretical issues raised by the topic. The paper should make a contribution; that is, it should not be a simple description of all of the studies that have been conducted on the topic. Instead, it should move the area forward by (a) making a theoretical contribution by, for example, pointing out inconsistencies in the literature and providing suggestions for how future research in this area should resolve them, or providing a theoretical framework to guide future research, or bringing up questions that are important but have yet to be addressed, or (b) making a methodological contribution by, for example, conducting a meta-analysis or other quantitative analysis (e.g., examination of effect sizes) to provide statistical confirmation of an effect.
+
+There is no guideline for number or age of references or studies to review because that will depend on the topic. Very generally, however, papers of this breadth and depth have at least a few dozen references and focus on at least a dozen core papers in the review. The review should focus on peer-reviewed empirical journal articles, but book chapters and other reviews are helpful in guiding a search for references and providing theoretical background. We also suggest that students do not pick a general topic for which there are already many reviews (e.g., what accounts for the sex difference in leadership? What predicts turnover?). Again, we want the paper to make a unique contribution and be publishable.
+
+Here are a few examples of the sort of titles that would meet criteria for a publishable literature review
+
+**1. The efficacy of online coaching for improved leadership behaviors**
+
+This is good because virtual learning is a hot topic yet the review is focused enough (leadership, virtual coaching) so as to not be redundant with general meta-analyses and reviews which have already compared the efficacy of face-to-face and online learning modalities for a range of training outcomes (affective, behavioral, cognitive). At the same time, it is sufficiently broad to cover a variety of literatures which students can knit together into general conclusions (leadership behaviors: transformative, servant, task, planning, conflict, etc.; online coaching: live, adaptive assessment, aps, weekly diaries, dynamic or interactive). Can also delve into different issues, such as whether certain leadership outcomes are more amenable to virtual coaching than others, do effects depend on modality or integration with a broader L&D strategy, and a taxonomy of different ways to coach virtually. 
+
+**2. Distinguishing job satisfaction, organizational commitment, and employee engagement**
+
+This would be a theoretical expansion and review of recent meta-analyses, articles, and other papers attempting to clarify how commonly studied employee attitudes are distinct yet overlapping. It is current, controversial, and one could get into many issues: what is the historical origin of each term and are each conceptually distinct states? What are the advantages & disadvantages of aggregating versus distinguishing attitudes? Among the three which are most powerful for different outcomes (performance, citizenship, turnover) or do they share similar predictive power? How do you recommend using these to take research on attitude and motivational theory forward? This could be a meta-analysis but the challenge would be there are several related meta-analyses so the review would need to expand, augment, or build upon past research in some way. 
+
+**3. Preventing team dissolution: antecedents, processes, and interventions**
+
+In this paper one could review the literature focused primarily on how to prevent a team from falling apart over time. The time part is crucial to distinguish from reviews which focus purely on team conflict (disagreement) to a broader consideration of teams disconnecting, disbanding, or even working against one another over time. It also extends beyond conflict to consider other drivers of team dissolution, such as stress, lack of alignment, poor design, and team composition. Finally, the review would be unique in emphasizing any interventions and mechanisms which help teams overcome conflict, stay resilient, maintain cohesion, or hit other processes that help teams stay together. Some of this work is being pursued for teams in extreme environments, such as astronauts on long-term space missions. This could even be a meta-analysis if there are sufficient number of studies looking at an outcome representing team dissolution. One could then provide an integration and analysis of why interventions don’t always work as expected for team dissolution and provide recommendations for moving forward.  
+
+**4. A cross-cultural analysis of career development trajectories**
+
+This could be a broad review bringing together cultural psychology, developmental psychology, and vocational psychology into an integrative focus on how career attitudes, prestige, and aspirations change across the lifespan in different countries. You can ask whether western and eastern countries have different trends in attitudes towards their career over time? Why might that be? What are the cultural/historical/religious reasons that underlie differences in valence and change over time? Is this changing with China’s rapidly westernizing culture? What are the implications of this for international companies, understanding workforce policies, and the generalizability of theories about career development? There are lots of angles one could take with this. 
 
 ## Eligibility and Timing
 
@@ -28,6 +49,8 @@ Students are eligible for comprehensive exams when they have met the following r
 2. Completed I/O Research Seminar Readings and Defense (PSYC 691, 692) or I/O MA Thesis (PSYC 698)
 3. Selected a formal program mentor for dissertation and research
 4. Hold a GPA of 3.00 or higher
+
+## Timeline and Process
 
 Each year the I/O Doctoral Director is responsible for assembling the comprehensive exam committee consisting of three or more I/O faculty members. The committee typically includes the Doctoral Director, student’s primary advisor, and at least one independent faculty.  
 
