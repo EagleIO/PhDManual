@@ -98,7 +98,7 @@ Grading criteria will be based on both included content and quality of reasoning
 
 Quality is reflected in how well the student organizes, integrates, and evaluates previously published material (Bem, 1995). As such, they clearly defined and clarify the problem; summarize previous work in the area; identify relationships, contradictions, gaps, and inconsistencies; and suggested the next step or steps in solving the problem. The cognitive complexity or ‘critical thinking’ exerted in the synthetic function of the review will be evaluated using a simplified variant of Bloom’s Taxonomy of cognitive reasoning to graduate-level writing (Granello, 2001). 
 
-```{r bloom, echo=FALSE, warning=FALSE, message=FALSE}
+```{r bloom, echo=FALSE, warning=FALSE, message=FALSE, eval=FALSE}
 
 bloom <- read.csv("bloom.csv", header=TRUE)
 kable(bloom, caption = "Application of Bloom’s Taxonomy to Evaluating the Integrated Literature Review")
@@ -137,6 +137,130 @@ Following the steps above provides a coherent review structure which is useful f
 
 ## Articles, Editorials, and Example Reviews
 
+Below is a bibliography of journals, articles, editorials, and specialized methods used to conduct systematic reviews. We recommend the @torraco_writing_2016, @baumeister_writing_2013, and Siddaway et al. (2019) pieces to get a general overview for the process, considerations, and checklists. We also recommend supplementing this by reading 3-6 major reviews on a variety of topics to gain familiarity with the structure, scope, and stylistics various authors use in crafting and producing their review. Example journals and reviews are provided to showcase a diversity of approaches, aims, and organizing structures for developing an impactful review paper.  
+
+### General Advice on Writing a Systematic Review
+
++ @torraco_writing_2016
++ @baumeister_writing_2013 
++ @bem_writing_1995
++ @webster_analyzing_2002
+
+### Additional or Older Sources for Writing Literature Reviews 
+
++ @baumeister_writing_1997
++ @denyer_producing_2009
++ @fink_conducting_2019
++ @torraco_writing_2016
++ @tranfield_towards_2003
++ @bodolica_end_2018
++ @williams_re-examining_2020
+
+### Meta Analysis, Systematic, and Narrative Review
+
++ @hodgkinson_narrative_2014
++ @siddaway_how_2019
+
+### Using Literature Review to Advance Theory
+
++ @breslin_theorizing_2020
++ @post_advancing_2020
+
+### Editorials
+
++ @cropanzano_writing_2009
++ @fisch_six_2018
++ @hodgkinson_what_2015
++ @jones_future_2014
++ @short_art_2009
+
+### Organizational Research Methods Special Edition and Specialized Methods for Lit Review
+
++ @kunisch_feature_2018
++ @anderson_citation_2020
++ @aguinis_best-practice_2020
++ @zupic_bibliometric_2015
++ @madden_using_2018
++ @gaur_systematic_2018
++ @adams_shades_2017
+
+## Example Journals and Literature Reviews
+
+**Journals and Special Editions**. The table contains a list of journals which regularly publish review articles, special edition (often biannual) review issues, or broad-based meta-analyses which serve to integrate findings and offer future directions for a given topic. Sample a variety of reviews from these outlets to see the format, scope, and structure which makes for an impactful literature review. 
+
+| Psychological Bulletin | Psychological Science in the Public Interest	| Academy of Management Review | Journal of Applied Psychology – 100 Year Centennial Review|
+|-----------------------|----------------------------------------------|-----------------------------|--------|
+|Psychological Review   | Current Directions in Psychological Science   |Journal of Business and Psychology – Tutorials Editions | Human Resource Management Review|
+|American Psychologist  | Organizational Psychology Review   | Journal of Organizational Behavior – Annual Review | Special Edition	Leadership Quarterly – Reviews and Meta-analyses|
+|Annual Review of Organizational Psychology and Organizational Behavior| Journal of Management – Annual Review | Special Edition	Organizational Research Methods | Human Resource Development Review |
+|Academy of Management Annals | International Journal of Management Reviews| |		
+
+**Review Types**. Reviews can take many forms, including a focused overview of a construct, a general exposition on what is known and unknown about a particular topic or process, a highly contextualized focus of a particular issue (e.g., creativity in technical fields such as science and engineering), or a temporal review of a topic over the past several decades. Some reviews are purely meta-analytic, some narrative, and some blend both. The best reviews often provide new ideas, conceptual models, or insights to topics which may have gone stale or are widely ambiguous. Several examples of different types of reviews are provided below. Note this list is not exhaustive. 
+
+### Nomological Network of a Construct
+
++ @eva_servant_2019
++ @mishra_career_2017
++ @newman_psychological_2017
+
+### Knowns and Unknowns
+
++ @aguinis_what_2012
++ @rauthmann_situation_2020
+
+### Specific Topic or Context
+
++ @razinskas_multilevel_2020
++ @tkachenko_researchpractice_2017
++ @reyes_state_2019
++ @dean_jr_organizational_1998
+
+### Descriptive: Temporal, Types, or Themes
+
++ @cohen_what_1997
++ @aguinis_first_2019
++ @maynard_empowermentfad_2012
++ @day_advances_2014
+
+### Interventions
+
++ @knight_building_2017
++ @keiser_meta-analysis_2020
++ @lacerenza_leadership_2017
+
+### Methods and Tutorials
+
++ @podsakoff_common_2003
++ @bernerth_critical_2016
++ @aguinis_best-practice_2013
++ @pek_reporting_2018
++ @aguinis_mturk_2020
+
+### Outcome-oriented
+
++ @day_leadership_2015
++ @blume_transfer_2010
++ @rubenstein_surveying_2018
+
+### Interdisciplinary
+
++ @cropanzano_social_2005
++ @follmer_disclosure_2020
++ @steel_integrating_2006
++ @jang_more_2018
++ @van_swol_language_2019
+
+
+### Blended Theory and Meta-Analysis
+
++ @colquitt_toward_2000
++ @kluger_effects_1996
++ @shockley_disentangling_2017
+
+### Critique or Reconceptualization
+
++ @meurs_cognitive_2011
++ @solinger_beyond_2008
 
 
 ## OLD STUFF (AS OF 1/7/21)
