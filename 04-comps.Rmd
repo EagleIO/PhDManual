@@ -8,7 +8,7 @@
 
 ## Integrative Literature Review Qualifying Comprehensive Exam
 
-The I/O comprehensive exam is a prospective analysis of the student’s readiness to embark upon their dissertation research. This will take the form of a **publishable** integrative, theoretical, or meta-analytic literature review on the student’s broad area of study. The topic can **expand** the scope of their dissertation and should be comparable to papers published in [*Psychological Bulletin*](https://www.apa.org/pubs/journals/bul), [*Academy of Management Review*](https://journals.aom.org/journal/amr), [*Annual Review of Organizational Psychology and Organizational Behavior*](https://www.annualreviews.org/orgpsych/planned), [*Journal of Management*](https://journals.sagepub.com/home/jom) (biannual review), [*Psychological Review*](https://www.apa.org/pubs/journals/rev), and so forth. A full listing of outlets publishing literature reviews, tutorials on how to write reviews, and examples of reviews are provided below; the student is encouraged to peruse these materials for examples and guidance. The reviewed research topic must bridge multiple theories, concepts, controversies, or findings within a domain of work psychology, systematically organize and review published findings in the area, and identify the key challenges and future directions for the area. Note the quality of the paper must be very high with the exam evaluating the student’s ability to demonstrate:
+The I/O comprehensive exam is a prospective analysis of the student’s readiness to embark upon their dissertation research. This will take the form of a **publishable** integrative, theoretical, or meta-analytic literature review on the student’s broad area of study. The topic can **expand** the scope of their dissertation and should be comparable to papers published in [*Psychological Bulletin*](https://www.apa.org/pubs/journals/bul), [*Academy of Management Review*](https://journals.aom.org/journal/amr), [*Annual Review of Organizational Psychology and Organizational Behavior*](https://www.annualreviews.org/orgpsych/planned), [*Journal of Management*](https://journals.sagepub.com/home/jom) (biannual review), [*Psychological Review*](https://www.apa.org/pubs/journals/rev), and so forth. A full listing of outlets publishing literature reviews, tutorials on how to write reviews, and examples of reviews are provided in Appendix \@ref(litreview); students are encouraged to peruse these materials for examples and guidance. The reviewed research topic must bridge multiple theories, concepts, controversies, or findings within a domain of work psychology, systematically organize and review published findings in the area, and identify the key challenges and future directions for the area. Note the quality of the paper must be very high with the exam evaluating the student’s ability to demonstrate:
 
 + An understanding of main theories, findings, and perspectives in a specialized topic
 + An integration and synthesis of empirical and theoretical knowledge for a chosen topic 
@@ -23,7 +23,7 @@ The topic should be broad enough that students are able to find enough published
 
 There is no guideline for number or age of references or studies to review because that will depend on the topic. Very generally, however, papers of this breadth and depth have at least a few dozen references and focus on at least a dozen core papers in the review. The review should focus on peer-reviewed empirical journal articles, but book chapters and other reviews are helpful in guiding a search for references and providing theoretical background. We also suggest that students do not pick a general topic for which there are already many reviews (e.g., what accounts for the sex difference in leadership? What predicts turnover?). Again, we want the paper to make a unique contribution and be publishable.
 
-Here are a few examples of the sort of titles that would meet criteria for a publishable literature review
+Here are a few examples of the sort of titles that would meet criteria for a publishable literature review:
 
 **1. The efficacy of online coaching for improved leadership behaviors**
 
@@ -61,10 +61,10 @@ The comprehensive examination process begins in the spring after a student has d
         + Relevant theories or principles
         + At least two domains, ideas, controversies, methods, or topics to be discussed (e.g., leadership, development, motivation, statistical technique, person v. situation, dynamic criteria, wearable sensors, assessment method, income inequality, etc…)
         + General approach to how review will be conducted (qualitative, quantitative, how comprehensive, boundaries, etc…) 
-    + **Review method:** Describe methodology for selecting articles and reviewing findings (see resources and tutorials below)
+    + **Review method:** Describe methodology for selecting articles and reviewing findings (see resources and tutorials in Appendix \@ref(litreview))
     + **Example articles:** list several example articles to be reviewed, including any specified by student’s advisor
     
-3. **Conduct Review:** During the summer and in consultation with their advisor, the student expands the comprehensive exam proposal into a formal systematic review [see tutorials and suggested readings below, especially @torraco_writing_2016]. The literature review is expected to demonstrate all the following: clear and concise writing, significance, logical or thematic organization, method of review, critical analysis of existing literature, synthesis of findings into new knowledge, exploration of emerging developments or topics, and foundations for future research. While length will vary depending on topic and scope, a typical review/meta-analysis is between 8,000 – 12,000 words. A bibliography of all reviewed works should also be included (not part of page limit).
+3. **Conduct Review:** During the summer and in consultation with their advisor, the student expands the comprehensive exam proposal into a formal systematic review [see tutorials and suggested readings in Appendix \@ref(litreview), especially @torraco_writing_2016]. The literature review is expected to demonstrate all the following: clear and concise writing, significance, logical or thematic organization, method of review, critical analysis of existing literature, synthesis of findings into new knowledge, exploration of emerging developments or topics, and foundations for future research. While length will vary depending on topic and scope, a typical review/meta-analysis is between 8,000 – 12,000 words. A bibliography of all reviewed works should also be included (not part of page limit).
 
 4. **Review Submission and Evaluation:** The final draft of the review is due **September 1st**. This coincides with SIOP submission deadlines so the student may also submit an abbreviated version of the manuscript to be considered for the annual SIOP conference. In the spirit of journal reviews, the committee has three weeks to evaluate the product as “accepted”, “minor revision”, “major revision” or “rejection” (which amounts to a fail). If “major revision”, then student has 1 month to address comments otherwise the submission is a fail.  
 
@@ -120,144 +120,3 @@ If a student does not pass their comprehensive examination after all re-attempts
 3. The student may appeal a decision to uphold the dismissal by the Dean of the College to the Dean of the Graduate College and the Office of the Provost within five (5) business days of receiving notification of the Dean of the College’s decision.
 
 4. A decision to uphold the dismissal by the Dean of the Graduate College and the Office of the Provost may be appealed to the President of the University within five (5) business days of receiving notification of the Dean of the Graduate College/Office of the Provost’s decision. The decision of the President is final.
-
-## Resources and Structure for Writing a Systematic Review
-
-Systematic literature reviews occupy an important cornerstone in scientific advancement by summarizing, synthesizing, and critiquing a representative set of literature on a focused topic in an integrated way to produce new frameworks, perspectives, and directions. There are a variety approaches to literature review, including meta-analysis, bibliographic, narrative, critical, or tutorial. Regardless the approach, the purpose of a literature review is to objectively report the current knowledge on a topic and base this summary on previously published research. A useful review serves as a foundation for advancing knowledge, facilitating theory development, closing mature research areas, and uncovering novel research topics.
-
-When crafting a literature review it is important to **summarize** findings into **theoretical implications or propositions** rather than produce a descriptive, annotated bibliography of loosely connected facts. This means you *must impose* some conceptual structure on how the review is conducted which entails several steps. First, there must be a **goal or purpose** to advance understanding of a specific issue. Is this an update of new knowledge for a topic or a temporal review of all findings over several decades? Is the purpose to synthesize, critique, or reconceptualize the topic? Is there a specific question (generalizability, antecedents, time span, growing popularity, convergence of ideas) to be addressed? Is there confusion regarding meaning, value, or application which requires clarification and order? Will the review compare major competing approaches, definitions, and tools? The goal should help establish the *need*, *significance*, or *value* of the review and provide boundaries around what the review attempts to accomplish.
-
-Second, it must be **systematic** in that the review process should be transparent and reproducible. What databases where used? How does it expand pat reviews? What keywords used to identify? Criteria used for study inclusion or exclusion (e.g., language, method, article type)? The student should outline their search strategy for identifying relevant literature in a systematic way so others could replicate the process. Building on the method, students must also choose the right balance between **breadth and depth** when identifying and describing past research. The review should be comprehensive enough to include all relevant studies but also focused enough to highlight important or prototypical studies in detail to promote understanding. It is one thing to say you will review everything about work attitudes and another to specifically review the moderators, mediators, and outcomes of procedural justice in the public sector. The **scope** of the review dictates what will be covered and often depends on the focus and field’s maturity level with long-standing topics requiring that the student synthesize a large body of literature, in comparison to a review on a more novel field where only few studies exist. When very broad, the student can make use of tables and concepts to illustrate findings in an efficient manner.
-
-Three, students should focus on *concepts* rather than *individual studies* in analysis and synthesis. This might include historical development, themes, or methodological variations. Careful identification and evaluation of the underlying ideas, constructs, propositions, or hypotheses linking research promotes deeper understanding of the review’s purpose which then guide the analysis conducted. This is done by extracting relevant results or theories, critically analyzing literature to identify ongoing issues or concepts, and synthesizing findings in a way to identify meaningful cross-study patterns. This can (but need not) lead to a new conceptual framework with propositions. Either way, focusing on concepts instead of studies helps identify controversies and commonalities which builds towards a more coherent and integrative manuscript.  
-
-Finally, a literature review should *derive conclusions and tell the reader where to go*. This reiterates the point a systematic review **must go beyond a descriptive summary of prior literature**. While it is important to describe studies included, it is essential go one step further by evaluating the evidence and recent trends to develop priorities for future research. This is done by deriving meaningful conclusions which answers the questions: What do we learn from this summary and what comes next? This includes carefully evaluating and deriving implications; pointing out gaps, omissions, discrepancies, or conflicts in the literature; and outlining directions for future research. 
-
-Following the steps above provides a coherent review structure which is useful for developing or evaluating a theory, method, or practice. The introduction motivates the topic and describes the contributions of the literature review. The next section describes the systematic review process and the key concepts used. After that, the crucial part is the synthesis and interpretation of the literature review’s findings. This section can but need not lead to the derivation of propositions or a conceptual. The final section of a literature review provides a conclusion and discussion with the boundaries of the review and the future research areas. The order of the sections is not static and can vary depending on the student’s topic. For example, one can also put suggestions for future research directly into the body of the article where the main findings from the literature review are described and/or discussed. However, a coherent structure is an absolute necessity for a systematic literature review.
-
-## Articles, Editorials, and Example Reviews
-
-Below is a bibliography of journals, articles, editorials, and specialized methods used to conduct systematic reviews. We recommend the @torraco_writing_2016, @baumeister_writing_2013, and Siddaway et al. (2019) pieces to get a general overview for the process, considerations, and checklists. We also recommend supplementing this by reading 3-6 major reviews on a variety of topics to gain familiarity with the structure, scope, and stylistics various authors use in crafting and producing their review. Example journals and reviews are provided to showcase a diversity of approaches, aims, and organizing structures for developing an impactful review paper.  
-
-### General Advice on Writing a Systematic Review
-
-+ @torraco_writing_2016
-+ @baumeister_writing_2013 
-+ @bem_writing_1995
-+ @webster_analyzing_2002
-
-### Additional or Older Sources for Writing Literature Reviews 
-
-+ @baumeister_writing_1997
-+ @denyer_producing_2009
-+ @fink_conducting_2019
-+ @torraco_writing_2016
-+ @tranfield_towards_2003
-+ @bodolica_end_2018
-+ @williams_re-examining_2020
-
-### Meta Analysis, Systematic, and Narrative Review
-
-+ @hodgkinson_narrative_2014
-+ @siddaway_how_2019
-
-### Using Literature Review to Advance Theory
-
-+ @breslin_theorizing_2020
-+ @post_advancing_2020
-
-### Editorials
-
-+ @cropanzano_writing_2009
-+ @fisch_six_2018
-+ @hodgkinson_what_2015
-+ @jones_future_2014
-+ @short_art_2009
-
-### Organizational Research Methods Special Edition and Specialized Methods for Lit Review
-
-+ @kunisch_feature_2018
-+ @anderson_citation_2020
-+ @aguinis_best-practice_2020
-+ @zupic_bibliometric_2015
-+ @madden_using_2018
-+ @gaur_systematic_2018
-+ @adams_shades_2017
-
-## Example Journals and Literature Reviews
-
-**Journals and Special Editions**. The table contains a list of journals which regularly publish review articles, special edition (often biannual) review issues, or broad-based meta-analyses which serve to integrate findings and offer future directions for a given topic. Sample a variety of reviews from these outlets to see the format, scope, and structure which makes for an impactful literature review. 
-
-| Psychological Bulletin | Psychological Science in the Public Interest	| Academy of Management Review | Journal of Applied Psychology – 100 Year Centennial Review|
-|-----------------------|----------------------------------------------|-----------------------------|--------|
-|Psychological Review   | Current Directions in Psychological Science   |Journal of Business and Psychology – Tutorials Editions | Human Resource Management Review|
-|American Psychologist  | Organizational Psychology Review   | Journal of Organizational Behavior – Annual Review | Special Edition	Leadership Quarterly – Reviews and Meta-analyses|
-|Annual Review of Organizational Psychology and Organizational Behavior| Journal of Management – Annual Review | Special Edition	Organizational Research Methods | Human Resource Development Review |
-|Academy of Management Annals | International Journal of Management Reviews| |		
-
-**Review Types**. Reviews can take many forms, including a focused overview of a construct, a general exposition on what is known and unknown about a particular topic or process, a highly contextualized focus of a particular issue (e.g., creativity in technical fields such as science and engineering), or a temporal review of a topic over the past several decades. Some reviews are purely meta-analytic, some narrative, and some blend both. The best reviews often provide new ideas, conceptual models, or insights to topics which may have gone stale or are widely ambiguous. Several examples of different types of reviews are provided below. Note this list is not exhaustive. 
-
-### Nomological Network of a Construct
-
-+ @eva_servant_2019
-+ @mishra_career_2017
-+ @newman_psychological_2017
-
-### Knowns and Unknowns
-
-+ @aguinis_what_2012
-+ @rauthmann_situation_2020
-
-### Specific Topic or Context
-
-+ @razinskas_multilevel_2020
-+ @tkachenko_researchpractice_2017
-+ @reyes_state_2019
-+ @dean_jr_organizational_1998
-
-### Descriptive: Temporal, Types, or Themes
-
-+ @cohen_what_1997
-+ @aguinis_first_2019
-+ @maynard_empowermentfad_2012
-+ @day_advances_2014
-
-### Interventions
-
-+ @knight_building_2017
-+ @keiser_meta-analysis_2020
-+ @lacerenza_leadership_2017
-
-### Methods and Tutorials
-
-+ @podsakoff_common_2003
-+ @bernerth_critical_2016
-+ @aguinis_best-practice_2013
-+ @pek_reporting_2018
-+ @aguinis_mturk_2020
-
-### Outcome-oriented
-
-+ @day_leadership_2015
-+ @blume_transfer_2010
-+ @rubenstein_surveying_2018
-
-### Interdisciplinary
-
-+ @cropanzano_social_2005
-+ @follmer_disclosure_2020
-+ @steel_integrating_2006
-+ @jang_more_2018
-+ @van_swol_language_2019
-
-
-### Blended Theory and Meta-Analysis
-
-+ @colquitt_toward_2000
-+ @kluger_effects_1996
-+ @shockley_disentangling_2017
-
-### Critique or Reconceptualization
-
-+ @meurs_cognitive_2011
-+ @solinger_beyond_2008

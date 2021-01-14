@@ -6,7 +6,8 @@ site: bookdown::bookdown_site
 documentclass: book
 cover-image: "manual.png"
 bibliography: [book.bib, packages.bib, cites.bib, refs.bib]
-biblio-style: apalike
+csl: apa.csl
+#biblio-style: apalike
 link-citations: yes
 description: "This is the policy manual for the Montclair State University PhD program in Industrial and Organizational Psychology. The output format for this manual is bookdown::gitbook."
 ---
