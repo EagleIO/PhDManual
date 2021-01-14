@@ -46,7 +46,9 @@ All committee members must sign FORM F, and the faculty mentor must return it to
 
 For further information on formatting guidelines and other MSU procedures for Dissertations, students should refer to the most recent version of The Graduate School’s [Dissertation Procedures and Guidelines Manual](https://www.montclair.edu/graduate/wp-content/uploads/sites/58/2020/09/Dissertation-Procedures-Guidelines-2020-2021-final.pdf) (note that this manual is from 2020-2021). 
 
-## Calendar
+# (APPENDIX) Appendices {-} 
+
+# Calendar
 
 The below is taken from Renata's dissertation - an outline of important dates (AYs 20-22)
 
@@ -123,3 +125,60 @@ rect(-0.04,-0.04,1.04,1.04, col="#32CD3244")
 setday <-cal(5,2022)
 
 ```
+
+# Old Comprehensive Exam Process
+
+Cut 1/7/21:
+
+The comprehensive examination process begins in the spring after a student has defended their thesis. The comprehensive exam committee (3+ I/O faculty members) will be constituted by the end of the Spring semester (June) and the exam will begin in the start of the Fall of the student’s third year (September). The general process is as follows:  
+
++ To begin the comprehensive exam process, students must submit a **2000-2500 word comprehensive exam proposal and reading list** (see Section \@ref(compprop)) by mid-May to early June to the I/O Director. The proposal and reading list outline intended theoretical and empirical scope of students’ dissertation topic. This is **neither a comprehensive review nor a formal dissertation proposal**; rather, it is an introduction to intended PhD area.
+
++ During the summer, two things occur:
+    + The exam committee drafts 3 general I/O question as they pertain to the student’s comprehensive exam proposal. The questions require synthesizing knowledge from core industrial, organizational, and methodological course topics in relation to the student’s dissertation focus (see Section \@ref(compprop)).
+    
+    + In consultation with their advisor, the student expands the comprehensive exam proposal into a 10-page research proposal showing how they would formulate a hypothetical study to target a specific question. This will include specific aims, significance, innovation or gap addressed, and approach/method. A bibliography of key ideas and seminal works should also be included (not part of page limit).  
+
++ The comprehensive exam is schedule to take place across two phases beginning in September and typically concluding in October.  
+    + Phase one is a single day, open-book written exam. Students are provided the 3 prepared I/O questions and submit written responses along with their 10-page research proposal. The committee has three weeks to evaluate the responses as pass, pass with revision, or fail.
+    
+    + Upon passage of the written portion (including revisions), the student completes an oral defense before the committee to determine if they demonstrate the necessary knowledge to be permitted into doctoral candidacy.  
+
+
+## Comprehensive Exam Content and Procedure
+
+Qualifying exams will address basic I/O knowledge and synthetic skills in blending evidence to solving an applied research problem. In a sense, these exams can be considered the literature review and problem development phase which occurs in advance of a formal dissertation proposal. Consequently, it will have two parts: (1) exam proposal and reading list, and (2) written and oral defense. The exam proposal and reading list must be submitted at the beginning of the summer of their second year and comprehension of said list in relation to their degree content will be defended in both written and oral form in the beginning of fall their third year.
+
+### Comprehensive Exam Proposal and Reading List {#compprop}
+
+The **exam proposal** should be a 2000-2500 word outline of the intended dissertation topic which offers a general intellectual rationale, supported by key literature, for exploring scholarship in the chosen area. A good overview addresses theoretical, empirical, and practical concerns in a way which justifies investing time, money, and attention to the topic. We suggest the following outline – akin to the first few paragraphs of a paper – moving from general to specific.  
+
+1. General topic overview (1-4 paragraphs)  
+    + What is my research area (State it clearly)
+    + Why do I want to study it? (Scholarly rationale)
+    + Why is this issue important (Theory, empirical findings, organizational application)
+    
+2. Introduction to 2-3 questions or areas of inquiry (1-3 paragraphs).
+    + State of empirical knowledge related to your topic (substantive)
+    + Theoretical, conceptual, or philosophical approaches to studying the topic (frameworks)
+    + Methodological approaches used to study topic (tools, designs, variables, etc…)
+
+3. Elaboration on questions/areas of inquiry (1-4 paragraphs per question)
+    + Clearly stated question or focus of investigation
+    + Bodies of literature, theories, ideas, or arguments to be used to investigate this question
+    + Introduction to main themes, methods, or implications expected to explore with this question (preliminary outline)
+
+
+However formatted, the purpose of the **exam proposal** is to give the committee an outline of the intellectual rationale, supporting key literature (writers, theories, reviews, emerging topics), and scope of the student's intended topic. The proposal provides an articulation of your entry into scholarship within a chosen domain and the kinds of themes or debates you expect to explore. The **proposal** on your primary questions or areas of inquiry should show the following:  
+
++ Scholarly rationale for question and evidence that is relevant and timely
++ Awareness of key writers, debates, or frameworks
++ Intended scope of question (key versus tangential articles that comprise your focus)
++ Different approaches to answering your questions (e.g., methods or tools)
++ What is expected to be found or gain from this topic (e.g., implication, lessons, results)
+
+
+Attached to the proposal will be a **reading list** containing an appendix of key references (not included in word limit). The list is informally agreed upon by the student and their committee at the onset of Summer, with the bulk of evaluation falling onto the primary advisory. The generally suggested criteria for assemblage include the following: (1) encompass over 60 original empirical, theoretical, or practical sources, of which at least 5 are major books or reviews (quantitative, qualitative); (2) span 3 or more distinct topics related to the student’s dissertation (e.g., work design, leadership, sociotechnical systems) and draw from their specialization (psychology, data science, business/strategy), (3) include influential or seminal citations along with contemporary or emerging thoughts, (4) encompass a blend of both conceptual content (e.g., constructs, hypotheses, phenomena) and methods (e.g., manipulations, techniques, measures, assessment processes, mixed-methods, analyses), (5) cover both criticisms and supporting evidence, and (6) include at least three different disciplines and/or journals (e.g., management, economics, psychology).
+
+Together, the **exam proposal** and readings list will be used to draft 3 comprehensive exam questions as they pertain to the broader discipline. Once the advisor and committee approve of both the exam proposal and reading list, the student is considered to have passed this phase; inability to provide a list within a timely fashion will result in failure and the student will have a set time framed to provide a full list (considered a ‘retake’). 
+
