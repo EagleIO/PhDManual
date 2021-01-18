@@ -92,8 +92,8 @@ Grading criteria will be based on both included content and quality of reasoning
 + **Goal:** Is the topic, scope, need, boundaries, and perspective of the review articulated?
 + **Organization:** Is the review organized around logical flows of ideas with a coherent narrative and primary themes? May include diagrams or visual representation.
 + **Methods:** Are the methods for the review sufficiently described, such as how articles identified, included, analyzed, and described? Is the process repeatable?
-+ **Critical Analysis:** Identify deficiencies, omissions, conflicts, strengths, and weaknesses of current literature? What is poorly represented or unaddressed?
-+ **Synthesis:** Are new ideas, insights, or propositions provided? Might include research agendas, taxonomies, alternative concepts or models, meta-analytic conclusions, or metatheory. 
++ **Critical Analysis:** Identify deficiencies, omissions, conflicts, strengths, and weaknesses of current literature? What is poorly represented or unadressed?
++ **Synthesis:** Are new ideas, insights, or propositions provided? Might include research agendas, taxonomies, alternative concepts or models, meta-analytic conclusions, or meta-theory. 
 + **Future:** Does the review explore future of the topics for the field, such as trends, interdisciplinary developments, or new directions? Is there a foundation for future research or direction on which to build questions?
 
 Quality is reflected in how well the student organizes, integrates, and evaluates previously published material [@bem_writing_1995]. As such, they clearly defined and clarify the problem; summarize previous work in the area; identify relationships, contradictions, gaps, and inconsistencies; and suggested the next step or steps in solving the problem. The cognitive complexity or ‘critical thinking’ exerted in the synthetic function of the review will be evaluated using a simplified variant of Bloom’s Taxonomy of cognitive reasoning to graduate-level writing [@granello_promoting_2001]. 
