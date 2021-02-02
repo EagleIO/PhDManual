@@ -64,7 +64,7 @@ Following the steps above provides a coherent review structure which is useful f
 
 ## Articles, Editorials, and Example Reviews
 
-Below is a bibliography of journals, articles, editorials, and specialized methods used to conduct systematic reviews. We recommend the @torraco_writing_2016, @baumeister_writing_2013, and @siddaway_how_2019 pieces to get a general overview for the process, considerations, and checklists. We also recommend supplementing this by reading 3-6 major reviews on a variety of topics to gain familiarity with the structure, scope, and stylistics various authors use in crafting and producing their review. Example journals and reviews are provided to showcase a diversity of approaches, aims, and organizing structures for developing an impactful review paper.  
+Below is a bibliography of journals, articles, editorials, and specialized methods used to conduct systematic reviews. We recommend the @torraco_writing_2016, @baumeister_writing_2013, @siddaway_how_2019, and @cronin_why_2020 pieces to get a general overview for the process, considerations, and checklists ranging from basic to abstract considerations (e.g., search terms to thematic integration). We also recommend supplementing this by reading 3-6 major reviews on a variety of topics to gain familiarity with the structure, scope, and stylistics various authors use in crafting and producing their review. Example journals and reviews are provided to showcase a diversity of approaches, aims, and organizing structures for developing an impactful review paper.  
 
 ### General Advice on Writing a Systematic Review
 
@@ -106,6 +106,8 @@ Below is a bibliography of journals, articles, editorials, and specialized metho
 + @kunisch_feature_2018
 + @anderson_citation_2020
 + @aguinis_best-practice_2020
++ @cronin_why_2020
++ @sharma_partnering_2020
 + @zupic_bibliometric_2015
 + @madden_using_2018
 + @gaur_systematic_2018
