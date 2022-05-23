@@ -6,12 +6,11 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
   <title>MSU PhD Roles and Policy Manual</title>
   <meta name="description" content="This is the policy manual for the Montclair State University PhD program in Industrial and Organizational Psychology. The output format for this manual is bookdown::gitbook." />
-  <meta name="generator" content="bookdown 0.19 and GitBook 2.6.7" />
+  <meta name="generator" content="bookdown 0.25 and GitBook 2.6.7" />
 
   <meta property="og:title" content="MSU PhD Roles and Policy Manual" />
   <meta property="og:type" content="book" />
-  
-  <meta property="og:image" content="manual.png" />
+  <meta property="og:image" content="/manual.png" />
   <meta property="og:description" content="This is the policy manual for the Montclair State University PhD program in Industrial and Organizational Psychology. The output format for this manual is bookdown::gitbook." />
   
 
@@ -19,12 +18,12 @@
   <meta name="twitter:title" content="MSU PhD Roles and Policy Manual" />
   
   <meta name="twitter:description" content="This is the policy manual for the Montclair State University PhD program in Industrial and Organizational Psychology. The output format for this manual is bookdown::gitbook." />
-  <meta name="twitter:image" content="manual.png" />
+  <meta name="twitter:image" content="/manual.png" />
 
 <meta name="author" content="Industrial and Organizational Program Faculty" />
 
 
-<meta name="date" content="2020-06-10" />
+<meta name="date" content="2022-05-23" />
 
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <meta name="apple-mobile-web-app-capable" content="yes" />
@@ -32,8 +31,9 @@
   
   
 
-<link rel="next" href="select.html"/>
-<script src="libs/jquery-2.2.3/jquery.min.js"></script>
+<link rel="next" href="develop.html"/>
+<script src="libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/fuse.js@6.4.6/dist/fuse.min.js"></script>
 <link href="libs/gitbook-2.6.7/css/style.css" rel="stylesheet" />
 <link href="libs/gitbook-2.6.7/css/plugin-table.css" rel="stylesheet" />
 <link href="libs/gitbook-2.6.7/css/plugin-bookdown.css" rel="stylesheet" />
@@ -49,6 +49,9 @@
 
 
 
+<link href="libs/anchor-sections-1.1.0/anchor-sections.css" rel="stylesheet" />
+<link href="libs/anchor-sections-1.1.0/anchor-sections-hash.css" rel="stylesheet" />
+<script src="libs/anchor-sections-1.1.0/anchor-sections.js"></script>
 
 
 
@@ -69,17 +72,12 @@
 <li><a href="./">MSU PhD Roles and Policy Manual</a></li>
 
 <li class="divider"></li>
-<li class="chapter" data-level="1" data-path="index.html"><a href="index.html"><i class="fa fa-check"></i><b>1</b> I/O Psychology Doctoral Program Roles and Policies</a></li>
-<li class="chapter" data-level="2" data-path="select.html"><a href="select.html"><i class="fa fa-check"></i><b>2</b> Doctoral Student Selection - KSAOs and Process</a><ul>
-<li class="chapter" data-level="2.1" data-path="select.html"><a href="select.html#ksa"><i class="fa fa-check"></i><b>2.1</b> KSAs</a></li>
-<li class="chapter" data-level="2.2" data-path="select.html"><a href="select.html#selection-process"><i class="fa fa-check"></i><b>2.2</b> Selection Process</a></li>
-<li class="chapter" data-level="2.3" data-path="select.html"><a href="select.html#waiving-ma-credit"><i class="fa fa-check"></i><b>2.3</b> Waiving MA Credit</a></li>
-</ul></li>
-<li class="chapter" data-level="3" data-path="develop.html"><a href="develop.html"><i class="fa fa-check"></i><b>3</b> I/O Program (MA and PhD) Expectations, Probation and Development Standards</a></li>
-<li class="chapter" data-level="4" data-path="comps.html"><a href="comps.html"><i class="fa fa-check"></i><b>4</b> Comprehensive Exams</a></li>
-<li class="chapter" data-level="5" data-path="culture.html"><a href="culture.html"><i class="fa fa-check"></i><b>5</b> Student I/O Group, Mentorship, and Program Culture</a></li>
-<li class="chapter" data-level="6" data-path="dissertation.html"><a href="dissertation.html"><i class="fa fa-check"></i><b>6</b> Dissertation Process</a></li>
-<li class="chapter" data-level="" data-path="references.html"><a href="references.html"><i class="fa fa-check"></i>References</a></li>
+<li class="chapter" data-level="1" data-path="index.html"><a href="index.html"><i class="fa fa-check"></i><b>1</b> I/O Psychology Doctoral Program Roles and Policies<span></span></a></li>
+<li class="chapter" data-level="2" data-path="develop.html"><a href="develop.html"><i class="fa fa-check"></i><b>2</b> I/O Program (MA and PhD) Expectations, Probation and Development Standards<span></span></a></li>
+<li class="chapter" data-level="3" data-path="comps.html"><a href="comps.html"><i class="fa fa-check"></i><b>3</b> Comprehensive Exams<span></span></a></li>
+<li class="chapter" data-level="4" data-path="culture.html"><a href="culture.html"><i class="fa fa-check"></i><b>4</b> Student I/O Group, Mentorship, and Program Culture<span></span></a></li>
+<li class="chapter" data-level="5" data-path="dissertation.html"><a href="dissertation.html"><i class="fa fa-check"></i><b>5</b> Dissertation Process<span></span></a></li>
+<li><a href="references.html#references">References<span></span></a></li>
 <li class="divider"></li>
 <li><a href="https://github.com/rstudio/bookdown" target="blank">Published with bookdown</a></li>
 
@@ -103,12 +101,12 @@
 <div id="header">
 <h1 class="title">MSU PhD Roles and Policy Manual</h1>
 <p class="author"><em>Industrial and Organizational Program Faculty</em></p>
-<p class="date"><em>2020-06-10</em></p>
+<p class="date"><em>2022-05-23</em></p>
 </div>
-<div id="io-psychology-doctoral-program-roles-and-policies" class="section level1">
-<h1><span class="header-section-number">Chapter 1</span> I/O Psychology Doctoral Program Roles and Policies</h1>
+<div id="io-psychology-doctoral-program-roles-and-policies" class="section level1 hasAnchor" number="1">
+<h1><span class="header-section-number">Chapter 1</span> I/O Psychology Doctoral Program Roles and Policies<a href="index.html#io-psychology-doctoral-program-roles-and-policies" class="anchor-section" aria-label="Anchor link to header"></a></h1>
 <p><img src="manual.png" /></p>
-<p>As the I/O Doctoral Program goes live, we are in need of a handbook detailing all the key procedures and policies for the I/O doctoral and MA program experience. The goal is to have a final draft of the handbook by December 1st 2020, or the deadline for our first official doctoral application cycle. We need to have formal procedures for the following areas: (1) Doctoral Student Selection, Chapter <a href="select.html#select">2</a>, (2) I/O Program (MA and PhD) Probation Standards, Chapter <a href="develop.html#develop">3</a>, (3) Prospective Comprehensive Exams, Chapter <a href="comps.html#comps">4</a>, (4) Student Mentorship and Program Culture, Chapter <a href="culture.html#culture">5</a>, and (5) Dissertation Process, Chapter <a href="dissertation.html#dissertation">6</a>. Here are some general handbooks from other programs:</p>
+<p>As the I/O Doctoral Program goes live, we are in need of a handbook detailing all the key procedures and policies for the I/O doctoral and MA program experience. The goal is to have a final draft of the handbook by December 1st 2020, or the deadline for our first official doctoral application cycle. We need to have formal procedures for the following areas: (1) Doctoral Student Selection, Chapter <a href="#select"><strong>??</strong></a>, (2) I/O Program (MA and PhD) Probation Standards, Chapter <a href="develop.html#develop">2</a>, (3) Prospective Comprehensive Exams, Chapter <a href="comps.html#comps">3</a>, (4) Student Mentorship and Program Culture, Chapter <a href="culture.html#culture">4</a>, and (5) Dissertation Process, Chapter <a href="dissertation.html#dissertation">5</a>. Here are some general handbooks from other programs:</p>
 <ul>
 <li><a href="https://www.clemson.edu/cbshs/departments/psychology/files/pdf/handbook-psychology-graduate-current.pdf">Clemson</a></li>
 <li><a href="https://graduate.ucf.edu/wp-content/uploads/2019/05/Industrial-and-Organizational-Psychology-PhD.pdf">UCF</a></li>
@@ -123,11 +121,10 @@
         </div>
       </div>
 
-<a href="select.html" class="navigation navigation-next navigation-unique" aria-label="Next page"><i class="fa fa-angle-right"></i></a>
+<a href="develop.html" class="navigation navigation-next navigation-unique" aria-label="Next page"><i class="fa fa-angle-right"></i></a>
     </div>
   </div>
 <script src="libs/gitbook-2.6.7/js/app.min.js"></script>
-<script src="libs/gitbook-2.6.7/js/lunr.js"></script>
 <script src="libs/gitbook-2.6.7/js/clipboard.min.js"></script>
 <script src="libs/gitbook-2.6.7/js/plugin-search.js"></script>
 <script src="libs/gitbook-2.6.7/js/plugin-sharing.js"></script>
@@ -146,6 +143,7 @@ gitbook.start({
 "weibo": false,
 "instapaper": false,
 "vk": false,
+"whatsapp": false,
 "all": ["facebook", "twitter", "linkedin", "weibo", "instapaper"]
 },
 "fontsettings": {
@@ -166,6 +164,10 @@ gitbook.start({
 "text": null
 },
 "download": ["PhD Manual.pdf", "PhD Manual.epub"],
+"search": {
+"engine": "fuse",
+"options": null
+},
 "toc": {
 "collapse": "subsection"
 }

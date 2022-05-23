@@ -4,10 +4,10 @@
 %
 \documentclass[
 ]{book}
+\usepackage{amsmath,amssymb}
 \usepackage{lmodern}
-\usepackage{amssymb,amsmath}
-\usepackage{ifxetex,ifluatex}
-\ifnum 0\ifxetex 1\fi\ifluatex 1\fi=0 % if pdftex
+\usepackage{iftex}
+\ifPDFTeX
   \usepackage[T1]{fontenc}
   \usepackage[utf8]{inputenc}
   \usepackage{textcomp} % provide euro and other symbols
@@ -41,7 +41,8 @@
   hidelinks,
   pdfcreator={LaTeX via pandoc}}
 \urlstyle{same} % disable monospaced font for URLs
-\usepackage{longtable,booktabs}
+\usepackage{longtable,booktabs,array}
+\usepackage{calc} % for calculating minipage widths
 % Correct order of tables after \paragraph or \subparagraph
 \usepackage{etoolbox}
 \makeatletter
@@ -50,7 +51,7 @@
 % Allow footnotes in longtable head/foot
 \IfFileExists{footnotehyper.sty}{\usepackage{footnotehyper}}{\usepackage{footnote}}
 \makesavenoteenv{longtable}
-\usepackage{graphicx,grffile}
+\usepackage{graphicx}
 \makeatletter
 \def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
 \def\maxheight{\ifdim\Gin@nat@height>\textheight\textheight\else\Gin@nat@height\fi}
@@ -68,12 +69,15 @@
   \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
 \setcounter{secnumdepth}{5}
 \usepackage{booktabs}
+\ifLuaTeX
+  \usepackage{selnolig}  % disable illegal ligatures
+\fi
 \usepackage[]{natbib}
 \bibliographystyle{apalike}
 
 \title{MSU PhD Roles and Policy Manual}
 \author{Industrial and Organizational Program Faculty}
-\date{2020-06-10}
+\date{2022-05-23}
 
 \begin{document}
 \maketitle
@@ -100,151 +104,6 @@ As the I/O Doctoral Program goes live, we are in need of a handbook detailing al
 \end{itemize}
 
 It would be great help if each of us could volunteer to develop one or more of these policies and then educate the other faculty on the process. We can submit each for review, feedback, and then finalize for our second official incoming class. We could each carve out the procedure \textbf{over the summer}, review as a group \textbf{at our first I/O meeting} in the Fall, then \textbf{update and finalize} by December 1st. Below is a brief outline of each policy with some examples from other institutions.
-
-\hypertarget{select}{%
-\chapter{Doctoral Student Selection - KSAOs and Process}\label{select}}
-
-We need a semi-structured process for selecting incoming I/O doctoral students above and beyond GPA, GRE, and letter/resume. I envision this as a two-tiered phase with the first phase developing KSAO measures and the second formulating our selection procedure for gathering results and making decisions.
-
-Measure
-
-Minimum
-
-Future
-
-Notes
-
-Purpose Statement
-
-Qualitative
-
-Develop scoring rubric?
-
-Research Experience
-
-Qualitative
-
-Develop scoring rubric?
-
-Letters of Recommendation
-
-Qualitative
-
-Develop scoring rubric?
-
-Undergraduate GPA
-
-3.6
-
-Likely too much inflation to place emphasis on graduate GPA for post-masters' applicants
-
-GRE Verbal
-
-50th \%ile
-
-50th a placeholder
-
-GRE Quantitative
-
-50th \%ile
-
-50th a placeholder
-
-Locus of Control
-
-Internally developed measure
-
-Anything beyond typical application materials will likely reduce our applicant pool
-
-Humility with Mistakes
-
-Internally developed measure
-
-Anything beyond typical application materials will likely reduce our applicant pool
-
-Interview
-
-Qualitative
-
-Develop scoring rubric?
-
-Anything beyond typical application materials will likely reduce our applicant pool
-
-Research experience, recommended minimum GPA (3.6), internal locus of control, humility with mistakes (maybe go back to the \href{https://docs.google.com/document/d/1eXTDvfQWcNplMgt8zbVZldw-ByelTlfpzYORBGq423c/edit?usp=sharing}{PAD} and extract from there)
-
-\hypertarget{ksa}{%
-\section{KSAs}\label{ksa}}
-
-For KSAOs, I am thinking psychology knowledge, conceptual skills, learning orientation, and writing skills as critical competencies to consider in making admissions. One thought is a semi-structured interview where they demonstrate their knowledge of psychology or I/O topics (e.g., how would you apply a leadership theory to X, explain to us one I/O research finding, what one psychology theory would you use to explain human behavior at work, etc\ldots) and efforts they have made to learn more about a complex topic in our field. Another possibility is having them submit a writing sample in response to several targeted prompts (e.g., formulate a motivational hypothesis; formulate a plan for running a statistical test; articulate an interesting research question blending current workplace issues and pre-existing empirical evidence).
-
-The second piece of the selection process is the procedural. Should we review everyone as a group and approve followed by individual interviews? Or should it just be a group decision and then we give accepted students one year to find a good fit with one of us as a research advisor?
-
-Here are a few other general overviews of how other programs select their students
-
-\begin{itemize}
-\tightlist
-\item
-  \href{http://www.jsums.edu/psychology/ph-d-in-clinical-psychology-student-admission-outcomes-and-other-data/forms/}{Jackson State}
-\item
-  \href{https://www.pdx.edu/psy/graduate-faqs\#faq09.htm}{Portland State}
-\item
-  \href{https://www.utc.edu/psychology/graduate/msiopysch/ioadmissionscriteria.php}{Chatanooga}
-\end{itemize}
-
-\hypertarget{selection-process}{%
-\section{Selection Process}\label{selection-process}}
-
-PAD starts here. Notes John and I: brief mention of culture, humility/internal locus of control measure?
-The program will be a Fall-only admission to create a seasonal basis for enrollment evaluation, offer latitude in selection (by restricting the start date we have more students apply at once), and help us administratively monitor the process. Most importantly, this offers flexibility in balancing course offerings across the Masters and PhD programs.
-
-The application process to the traditional PhD program in I/O psychology will follow a two-tiered system. The first tier will be a compensatory cutoff where students must submit the following materials and meet the following recommended standards:
-
-Have an undergraduate GPA of at least 3.40 or a major GPA of at least 3.60 (to offset low grades due to difficult courses). Or, if they are a recent I/O masters graduate or current I/O masters student, have a GPA of at least 3.5 or greater to reflect ability to handle graduate-level work. We are looking for strong GPA commensurate with background courses.
-
-If they do not have a BA or BS in Psychology, course work will be individually reviewed for eligibility. Preference will be given to students with an introduction to social science course (e.g., intro to psychology, intro to sociology), I/O Psychology course, statistics (of any discipline), and a research methods course.
-
-Submission of a general GRE score. The mean GRE cutoff for all I/O Psychology doctoral programs is around the 63rdpercentile (see Tett et al., 2011), hence preference will be given to students scoring above average on both the verbal and quantitative sub-tests.
-
-Submit three letters of recommendation.
-
-Submit a writing sample that demonstrates to the department that the student can write in a scientific and scholarly manner.
-
-Submit a personal statement that clearly articulates educational and professional goals. The personal statement should explain the applicant's reasons for applying, his/her learning objectives, research interests and experience and long-term professional objectives.
-
-We are setting recommended minimum criteria at the program's onset to maximize applicant numbers and alter as necessary. This will also allow more holistic assessment of applicant potential based upon personal statement, program fit, background, and various other markers of potential to succeed. Such standards are flexible and can be adjusted as needed.
-
-During the second tier of the admissions process, a short-list of top candidates will be administered a structured interview to assess their program understanding, research interests, and skill in research methods, study design, and general research conceptualization. This will help us make final decisions by further differentiating applicants. We will concurrently validate this tool using current graduate students to ensure it effectively forecasts graduate school performance.
-
-We have adapted a slightly different set of criteria for those applying to the Data Science specialization to ensure they can handle course content. In collaboration with Computer Science, we have agreed to the following set of recommended pre-requisites that can be fulfilled at the undergraduate level or through a pre-approved online course sequence:
-
-Have an undergraduate GPA of at least 3.00 or a major GPA of at least 3.20 (to offset low grades due to difficult courses). Or, if they are a recent I/O masters graduate or current I/O masters student, have a GPA of 3.5.
-
-Preferable to have a BA, BS, or a minor in computer science, mathematics, or commensurate STEM discipline. Provide evidence of technical skills, technological problem solving, or programming experience.
-
-Preferable if they have taken calculus, statistics, and an introductory computer science course, and received a B or higher in each course. If not calculus (or pre-calculus), it is acceptable to have taken discrete mathematical structures or a mathematical logic/set theory course. Approved online equivalents (e.g., MOOCs) are acceptable.
-
-Preference will be given to students who have completed undergraduate courses in an introductory social science course (e.g., intro psychology, intro to sociology), an Industrial-Organizational course, and Research Methods. Approved online equivalents (MOOC) are acceptable.
-
-Preference for students scoring above average on both the verbal and quantitative GRE sub-tests.
-
-Submit three letters of recommendation.
-
-Submit a writing sample that demonstrates to the department the student can write in a scientific and scholarly manner.
-
-Submit a personal statement that clearly articulates educational and professional goals. The personal statement should explain the applicant's reasons for applying, his/her learning objectives, research interests and experience and long-term professional objectives.
-
-For students entering without suggested computer science pre-requisites, the Computer Science department offers two courses to rectify deficiencies in programming and data structures. These can be taken across their first year or in advance of admittance. The first is an introduction to Java programming along with designing algorithms and numerical computing (CSIT 501 Java Programming) and the second is an introduction to the design and analysis of computer data structures (CSIT 503 Data Structure). Student's lacking background in hard sciences, mathematics, computer science, or programming will be required to complete each course outsidethe program's required 79 credits (see advanced electives below).
-
-The program will also adopt a matriculation process so anyone entering the MA program could advance into the PhD program if (a) they attain top-tier grades, (b) demonstrate research aptitude in coursework, (c) complete an applied research project (or thesis) as a capstone project, (d) secure sponsorship from a primary faculty member, and (e) show active involvement in the program per annual reviews. This offers (a) lagging students a leg-up to enter the PhD program if they demonstrate competence, and (b) MA students who show aptitude for a PhD but perhaps never contemplated it due to lack of mentorship at the undergraduate level. Students from the MA can apply for the PhD program to be considered for entrance into the doctoral program and have their MA courses count towards the PhD requirements as the two programs overlap in courses for the first two years. This enables us to recruit the top talent from our MA program and encourages multiple entry points into the doctorate program for individual at varying levels in their career or development. At the same time, due to low selection ratios, we will stress acceptance into the PhD is not guaranteed and will remain competitive.
-
-\hypertarget{waiving-ma-credit}{%
-\section{Waiving MA Credit}\label{waiving-ma-credit}}
-
-In accordance with the Graduate School, students who have taken graduate work or completed a MA at a regionally accredited institution in psychology, organizational psychology, business administration, data science, or a related field may be allowed to waive up to 24 graduate credits. Eligible courses for waiver typically include the core I/O Psychology courses (currently 22 credits), methods/stats (15 credits), and, if completed and presented an original empirical project at a prior institution, the I/O Research Seminars (6 credits).
-
-To qualify for waiver, the following criteria apply: an official transcript for desired transfer courses, equivalence to the MSU I/O courses and/or thesis project, a grade earned of ``B'' or higher, course taken within 10 years prior to matriculation, and the Doctoral Program Director approves the waiver. Any waiver petitions should be submitted alongside materials submitted during application to the doctoral program. Waivers will not be awarded for courses that were used within another MSU degree program.
-
-The number of courses that may be waived is determined on a case-by-case basis by the Graduate School, I/O Program, and student's assigned advisor. Although the department will help students with general questions about these issues, we will only conduct formal/binding reviews of course waivers until after the student has passed initial hurdles to be considered a viable applicant for acceptance into the program.It is anticipated no students will be eligible to transfer directly into doctoral candidacy; rather, most will need to complete a portion of MSU's core I/O Psychology courses, an original thesis or IO research seminars, and pass qualifying exams before advancing.
 
 \hypertarget{develop}{%
 \chapter{I/O Program (MA and PhD) Expectations, Probation and Development Standards}\label{develop}}
@@ -292,6 +151,8 @@ An example of a traditional I/O comp exams are as follows:
 
 \hypertarget{culture}{%
 \chapter{Student I/O Group, Mentorship, and Program Culture}\label{culture}}
+
+Maybe shift to ``how to navigate the program'' - initial PhD advisor (upon matriculation) versus selecting one in pursuit of the PhD
 
 Policies and procedures for an official I/O student group (perhaps Eagle I/O is sufficient) with officers and roles charged with social events, mentoring, speakers, assembling student resources, putting together SIOP reception, etc\ldots{} Basically a charter and set of annual tasks for a select set of I/O Doctoral and MA student officers to complete to improve the strength of the bonds between the students and extracurricular opportunities to strengthen their vocational self-concepts. Further, we need to make sure one faculty member (John for now) is always overseeing the mentorship and eagle I/O group to ensure its continuity. Here are several examples of such groups and their offerings at other I/O programs
 
